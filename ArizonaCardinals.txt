@@ -1,0 +1,65 @@
+94,Zach Allen,25,DE,AlleZa01
+3,Robbie Anderson,29,WR,AndeRo04
+89,Stephen Anderson,29,TE,AndeSt01
+3,Budda Baker,26,S,BakeBu00
+31,Chris Banjo,32,S,BanjCh00
+68,Kelvin Beachum,33,OL,BeacKe00
+46,Aaron Brewer,32,LS,BrewAa00
+25,Zaven Collins,23,LB,CollZa00
+6,James Conner,27,RB,ConnJa00
+65,Rashaad Coward,28,OL,CowaRa00
+66,Wyatt Davis,23,OL,DaviWy00
+52,Victor Dimukeje,23,OLB,DimuVi00
+83,Greg Dortch,24,WR,DortGr01
+86,Zach Ertz,32,TE,ErtzZa00
+72,Cody Ford,26,OL,FordCo00
+95,Leki Fotu,24,DT,FotuLe00
+72,Max Garcia,31,OL,GarcMa00
+45,Dennis Gardeck,28,OLB,GardDe01
+44,Markus Golden,31,OLB,GoldMa00
+18,A.J. Green,34,WR,GreeA.00
+57,Kamu Grugier-Hill,28,OLB,GrugKa00
+33,Antonio Hamilton,29,CB,HamiAn01
+64,Sean Harlow,27,OL,HarlSe00
+98,Trysten Hill,24,DT,HillTr00
+10,DeAndre Hopkins,30,WR,HopkDe00
+74,D.J. Humphries,29,OL,HumpD.00
+30,Keaontay Ingram,23,RB,IngrKe01
+79,Josh Jones,25,OL,JoneJo07
+93,Jonathan Ledbetter,25,DE,LedbJo01
+14,Andy Lee,40,P,LeexAn20
+43,Jesse Luketa,23,OLB,LukeJe00
+35,Christian Matthew,26,CB,MattCh01
+85,Trey McBride,23,TE,McBrTr01
+12,Colt McCoy,36,QB,McCoCo00
+19,Trace McSorley,27,QB,McSoTr00
+4,Rondale Moore,22,WR,MoorRo02
+21,Trayvon Mullen,25,CB,MullTr00
+7,Byron Murphy,24,CB,MurpBy00
+1,Kyler Murray,25,QB,MurrKy00
+56,Ben Niemann,27,LB,NiemBe00
+5,Matt Prater,38,K,PratMa20
+53,Billy Price,28,OL,PricBi01
+41,Myjai Sanders,24,OLB,SandMy00
+9,Isaiah Simmons,24,LB,SimmIs00
+54,Lecitus Smith,24,OL,SmitLe01
+97,Cameron Thomas,22,OLB,ThomCa03
+34,Jalen Thompson,24,S,ThomJa04
+47,Zeke Turner,26,LB,TurnZe00
+51,Tanner Vallejo,28,MLB,VallTa00
+28,Charles Washington,29,S,WashCh01
+99,J.J. Watt,33,DE,WattJ.00
+20,Marco Wilson,23,CB,WilsMa04
+2,Marquise Brown (IRD),25,WR,BrowMa04
+48,Tae Daley (IR),24,S,DaleTa00
+78,Marquis Hayes (IR),23,OL,HayeMa00
+76,Will Hernandez (IR),27,OL,HernWi00
+61,Rodney Hudson (IR),33,OL,HudsRo00
+90,Rashard Lawrence (IR),24,DT,LawrRa01
+66,Joshua Miles (IR),26,OL,MileJo00
+67,Justin Pugh (IR),32,OL,PughJu00
+73,Lachavious Simmons (IR),26,OL,SimmLa00
+57,Nick Vigil (IR),29,LB,VigiNi00
+29,Jonathan Ward (IR),25,RB,WardJo00
+13,Antoine Wesley (IR),25,WR,WeslAn01
+24,Darrel Williams (IR),27,RB,WillDa10
