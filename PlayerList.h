@@ -2,6 +2,7 @@
 #define PLAYERLIST_H
 #include <string>
 #include <iomanip>
+#include <fstream>
 using namespace std;
 
 class PlayerList
