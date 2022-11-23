@@ -1,0 +1,66 @@
+15,Nelson Agholor,29,WR,AghoNe00
+60,David Andrews,30,C,AndrDa00
+8,Ja'Whaun Bentley,26,LB,BentJa00
+24,Joshuah Bledsoe,24,S,BledJo00
+84,Kendrick Bourne,27,WR,BourKe00
+77,Trent Brown,29,OL,BrowTr02
+27,Myles Bryant,24,DB,BryaMy01
+72,Yodny Cajuste,26,OL,CajuYo00
+49,Joe Cardona,30,LS,CardJo00
+98,Carl Davis,30,DL,DaviCa01
+23,Kyle Dugger,26,DB,DuggKy00
+95,Daniel Ekuale,28,DT,EkuaDa00
+65,James Ferentz,33,OL,FereJa00
+6,Nick Folk,38,K,FolkNi20
+92,Davon Godchaux,28,DT,GodcDa00
+93,Lawrence Guy,32,DL,GuyxLa00
+37,Damien Harris,25,RB,HarrDa06
+36,Kevin Harris,22,RB,HarrKe01
+85,Hunter Henry,28,TE,HenrHu00
+58,Anfernee Jennings,25,LB,JennAn00
+13,Jack Jones,25,DB,JoneJa10
+31,Jonathan Jones,29,DB,JoneJo03
+10,Mac Jones,24,QB,JoneMa05
+25,Marcus Jones,24,DB,JoneMa06
+9,Matt Judon,30,LB,JudoMa00
+32,Devin McCourty,35,DB,McCoDe99
+46,Raekwon McMillan,27,LB,McMiRa02
+16,Jakobi Meyers,26,WR,MeyeJa01
+2,Jalen Mills,28,CB,MillJa02
+97,DaMarcus Mitchell,24,DL,MitcDa00
+71,Michael Onwenu,25,OL,OnweMi00
+17,Michael Palardy,30,P,PalaMi00
+1,DeVante Parker,29,WR,ParkDe01
+3,Jabrill Peppers,27,DB,PeppJa00
+21,Adrian Phillips,30,DB,PhilAd00
+96,Sam Roberts,24,DT,RobeSa00
+66,Kody Russey,24,OL,RussKo00
+41,Brenden Schooler,25,DB,SchoBr00
+18,Matthew Slater,37,WR,SlatMa00
+81,Jonnu Smith,27,TE,SmitJo01
+38,Rhamondre Stevenson,24,RB,StevRh00
+69,Cole Strange,24,OL,StraCo01
+35,Pierre Strong,24,RB,StroPi00
+48,Jahlani Tavai,26,LB,TavaJa00
+42,J.J. Taylor,24,RB,TaylJJ01
+11,Tyquan Thornton,22,WR,ThorTy00
+55,Josh Uche,24,LB,UcheJo00
+26,Shaun Wade,24,CB,WadeSh00
+44,Raleigh Webb,25,WR,WebbRa02
+30,Mack Wilson,24,OLB,WilsMa03
+91,Deatrich Wise Jr.,28,DL,WiseDe00
+76,Isaiah Wynn,27,OL,WynnIs00
+4,Bailey Zappe,23,QB,ZappBa00
+13,Quinn Nordin (NON),24,K,NordQu00
+64,Andrew Stueber (NON),23,OL,StueAn00
+7,Jake Bailey (IR),25,P,BailJa00
+90,Christian Barmore (IR),23,DL,BarmCh00
+61,Marcus Cannon (IR),34,OL,CannMa00
+22,Cody Davis (IR),33,DB,DaviCo02
+63,Chasen Hines (IR),22,OL,HineCh00
+5,Brian Hoyer (IR),37,QB,HoyeBr00
+14,Ty Montgomery (IR),29,WR,MontTy01
+51,Ronnie Perkins (IR),23,LB,PerkRo00
+74,LaBryan Ray (IR),25,DL,RayxLa02
+17,Kristian Wilkerson (IR),25,WR,WilkKr00
+33,Joejuan Williams (IR),25,CB,WillJo13

@@ -1,0 +1,64 @@
+29,Paulson Adebo,23,CB
+53,Zack Baun,26,LB
+1,Marquez Callaway,24,WR
+14,Andy Dalton,35,QB
+92,Marcus Davenport,26,DE
+56,Demario Davis,33,OLB
+0,Wyatt Davis,23,G
+50,Andrew Dowell,26,LB
+55,Kaden Elliss,27,LB
+30,Justin Evans,27,SS
+4,Blake Gillikin,24,P
+96,Carl Granderson,26,DE
+48,J.T. Gray,26,DB
+40,Chase Hansen,29,LB
+11,Deonte Harty,25,WR
+7,Taysom Hill,32,QB
+74,James Hurst,31,OT
+22,Mark Ingram,33,RB
+83,Juwan Johnson,26,WR
+34,Tony Jones,25,RB
+94,Cameron Jordan,33,DE
+41,Alvin Kamara,27,RB
+66,Lewis Kidd,0,OL
+90,Tanoh Kpassagnon,28,DE
+80,Jarvis Landry,30,WR
+23,Marshon Lattimore,26,CB
+3,Wil Lutz,28,K
+32,Tyrann Mathieu,30,CB
+6,Marcus Maye,29,FS
+78,Erik McCoy,25,OL
+12,Chris Olave,22,WR
+93,David Onyemata,30,DT
+75,Andrus Peat,29,OT
+46,Adam Prentice,25,RB
+71,Ryan Ramczyk,28,OT
+21,Bradley Roby,30,CB
+51,Cesar Ruiz,23,OL
+10,Tre'Quan Smith,26,WR
+25,Daniel Sorensen,32,S
+69,Kentavius Street,26,DT
+27,Alontae Taylor,24,DB
+13,Michael Thomas,29,WR
+76,Calvin Throckmorton,26,T
+82,Adam Trautman,25,TE
+98,Payton Turner,24,DE
+99,Shy Tuttle,27,DL
+81,Nick Vannett,29,TE
+24,Dwayne Washington,28,RB
+20,Pete Werner,23,LB
+26,P.J. Williams,29,CB
+2,Jameis Winston,28,QB
+49,Zach Wood,29,DE
+67,Landon Young,25,T
+87,Kawaan Baker (SUS),24,WR
+89,Dylan Soehner (PUP),25,TE
+73,Ethan Greenidge (IR),25,OL
+63,Jerald Hawkins (IR),29,OT
+95,Albert Huggins (IR),25,DL
+52,D'Marco Jackson (IR),24,LB
+77,Forrest Lamp (IR),28,OG
+38,Smoke Monday (IR),0,SAF
+70,Trevor Penning (IR),23,T
+42,Isaiah Pryor (IR),0,LB
+97,Malcolm Roach (IR),24,DT

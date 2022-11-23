@@ -1,0 +1,65 @@
+37,DeAundre Alford,25,DB,AlfoDe00
+25,Tyler Allgeier,22,RB,AllgTy00
+44,Troy Andersen,23,LB,AndeTr00
+98,Abdullah Anderson,26,DL,AndeAb00
+14,Damiere Byrd,29,WR,ByrdDa00
+9,Lorenzo Carter,27,LB,CartLo01
+67,Drew Dalman,24,OL,DalmDr00
+79,Jalen Dalton,25,DT,DaltJa00
+91,Matt Dickerson,27,DE,DickMa00
+47,Arnold Ebiketie,23,OLB,EbikAr00
+71,Chuma Edoga,25,T,EdogCh00
+89,Bryan Edwards,24,WR,EdwaBr01
+54,Rashaan Evans,27,LB,EvanRa01
+27,Rashad Fenton,25,DB,FentRa00
+86,Anthony Firkser,27,TE,FirkAn00
+28,Mike Ford,27,DB,FordMi01
+15,Feleipe Franks,25,TE,FranFe00
+66,Colby Gossett,27,OL,GossCo00
+95,Ta'Quon Graham,24,DL,GrahTa00
+27,Richie Grant,25,S,GranRi00
+34,Darren Hall,22,CB,HallDa03
+23,Erik Harris,32,S,HarrEr00
+62,Jonotthan Harrison,31,OL,HarrJo03
+32,Jaylinn Hawkins,25,SS,HawkJa00
+46,Parker Hesse,27,TE,HessPa00
+12,KhaDarel Hodge,27,WR,HodgKh00
+93,Timmy Horne,25,DT,HornTi00
+42,Caleb Huntley,24,RB,HuntCa02
+74,Germain Ifedi,28,OL,IfedGe00
+97,Grady Jarrett,29,DT,JarrGr00
+7,Younghoe Koo,28,K,KooxYo00
+53,Nick Kwiatkoski,29,LB,KwiaNi00
+55,Nathan Landman,24,LB,LandNa01
+63,Chris Lindstrom,25,G,LindCh00
+5,Drake London,21,WR,LondDr00
+51,DeAngelo Malone,23,OLB,MaloDe00
+1,Marcus Mariota,29,QB,MariMa01
+70,Jake Matthews,30,T,MattJa00
+48,Liam McCullough,25,LS,McCuLi00
+76,Kaleb McGary,27,T,McGaKa00
+20,Jovante Moffatt,26,S,MoffJo01
+64,Ryan Neuzil,25,G,NeuzRy00
+92,Adetokunbo Ogundeji,24,OLB,OgunAd01
+26,Isaiah Oliver,26,CB,OlivIs00
+84,Cordarrelle Patterson,31,RB,PattCo00
+13,Bradley Pinion,28,P,PiniBr00
+8,Kyle Pitts,22,TE,PittKy00
+85,MyCole Pruitt,30,TE,PruiMy00
+4,Desmond Ridder,23,QB,RiddDe00
+40,Keith Smith,30,FB,SmitKe03
+24,AJ Terrell,24,CB,TerrAJ00
+3,Mykal Walker,25,LB,WalkMy00
+35,Avery Williams,24,RB,WillAv02
+17,Olamide Zaccheaus,25,WR,ZaccOl01
+77,Jalen Mayfield (IRD),22,OL,MayfJa00
+83,Jared Bernhardt (IR),25,WR,BernJa00
+44,Beau Brinkley (IR),32,LS,BrinBe00
+87,John FitzPatrick (IR),22,TE,FitzJo00
+29,Casey Hayward (IR),33,CB,HaywCa00
+61,Matt Hennessy (IR),25,OL,HennMa00
+99,Derrick Tangelo (IR),23,DT,TangDe00
+96,Vincent Taylor (IR),28,DT,TaylVi00
+73,Tyler Vrabel (IR),22,OL,VrabTy00
+68,Elijah Wilkinson (IR),27,T,WilkEl00
+6,Damien Williams (IR),30,RB,WillDa05

@@ -165,7 +165,6 @@ void PlayerList::writeListToFile(string teamName){
 }
 
 void PlayerList::searchList(int numToSearch){
-	cout << "In searchList()" << endl;
 	PlayerListNode* nodePtr;
 	nodePtr = head;
 	bool playerFound = false;

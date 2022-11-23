@@ -1,0 +1,60 @@
+90,Amare Barno,23,DE,BarnAm00
+20,Raheem Blackshear,23,RB,BlacRa00
+56,Bradley Bozeman,28,OL,BozeBr00
+95,Derrick Brown,24,DT,BrowDe05
+53,Brian Burns,24,DE,BurnBr00
+31,Juston Burris,29,S,BurrJu00
+34,Sean Chandler,26,S,ChanSe00
+70,Brady Christensen,26,T,ChriBr00
+74,Larnel Coleman,24,T,ColeLa03
+63,Austin Corbett,27,OL,CorbAu00
+14,Sam Darnold,25,QB,DarnSa00
+79,Ikem Ekwonu,22,T,EkwoIk00
+75,Cameron Erving,30,T,ErviCa00
+33,D'Onta Foreman,26,RB,ForeDO00
+42,Sam Franklin,26,S,FranSa00
+97,Yetur Gross-Matos,24,DE,GrosYe00
+38,Myles Hartsfield,25,DB,HartMy00
+32,Tae Hayes,25,CB,HayeTa00
+98,Marquis Haynes,29,DE,HaynMa01
+10,Johnny Hekker,32,P,HekkJo00
+15,C.J. Henderson,24,CB,HendCJ00
+17,Rashard Higgins,28,WR,HiggRa00
+8,Jaycee Horn,23,CB,HornJa00
+30,Chuba Hubbard,23,RB,HubbCh01
+99,Matthew Ioannidis,28,DT,IoanMa01
+44,J.J. Jansen,36,LS,JansJ.00
+73,Michael Jordan,24,G,JordMi01
+55,Cory Littleton,29,LB,LittCo01
+49,Frankie Luvu,26,LB,LuvuFr00
+88,Terrace Marshall Jr.,22,WR,MarsTe00
+6,Baker Mayfield,27,QB,MayfBa00
+64,Cade Mays,23,G,MaysCa00
+78,Marquan McCall,23,DT,McCaMa03
+2,D.J. Moore,25,WR,MoorD.00
+46,Arron Mosby,23,LB,MosbAr00
+72,Taylor Moton,28,T,MotoTa00
+54,Daviyon Nixon,24,DT,NixoDa00
+4,Eddy Pineiro,27,K,PineEd00
+45,Giovanni Ricci,26,FB,RiccGi00
+93,Bravvion Roy,26,DT,RoyxBr00
+15,Laviska Shenault Jr.,24,WR,ShenLa00
+40,Brandon Smith,21,LB,SmitBr08
+12,Shi Smith,24,WR,SmitSh03
+84,Stephen Sullivan,26,TE,SullSt00
+28,Keith Taylor,24,CB,TaylKe03
+80,Ian Thomas,26,TE,ThomIa00
+7,Shaq Thompson,28,LB,ThomSh01
+82,Tommy Tremble,22,TE,TremTo00
+11,P.J. Walker,27,QB,WalkPh00
+57,Damien Wilson,29,LB,WilsDa02
+25,Xavier Woods,27,S,WoodXa00
+50,Chandler Wooten,23,LB,WootCh00
+94,Henry Anderson (NON),31,DE,AndeHe00
+21,Jeremy Chinn (IRD),24,S,ChinJe00
+9,Matt Corral (IR),23,QB,CorrMa00
+60,Pat Elflein (IR),28,G,ElflPa00
+5,Zane Gonzalez (IR),27,K,GonzZa00
+26,Donte Jackson (IR),27,CB,JackDo02
+18,Andre Roberts (IR),34,WR,RobeAn00
+23,Stantley Thomas-Oliver (IR),24,CB,ThomSt00

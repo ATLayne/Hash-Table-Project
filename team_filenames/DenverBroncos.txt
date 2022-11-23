@@ -1,0 +1,67 @@
+76,Calvin Anderson,26,T,AndeCa00
+34,Essang Bassey,24,CB,BassEs01
+83,Andrew Beck,26,FB,BeckAn01
+42,Nik Bonitto,23,OLB,BoniNi00
+56,Baron Browning,23,LB,BrowBa01
+69,Tom Compton,33,T,CompTo00
+53,Jonathon Cooper,24,OLB,CoopJo02
+80,Greg Dulcich,22,TE,DulcGr00
+19,Chase Edmonds,26,RB,EdmoCh00
+73,Cameron Fleming,30,T,FlemCa00
+61,Graham Glasgow,30,G,GlasGr00
+25,Melvin Gordon,29,RB,GordMe00
+50,Jonas Griffith,25,LB,GrifJo01
+1,KJ Hamler,23,WR,HamlKJ00
+41,Anthony Harris,31,S,HarrAn01
+92,Jonathan Harris,26,DL,HarrJo05
+91,Matt Henningsen,23,DE,HennMa01
+9,Kendall Hinton,25,WR,HintKe00
+22,Kareem Jackson,34,S,JackKa99
+10,Jerry Jeudy,23,WR,JeudJe00
+47,Josey Jewell,28,LB,JeweJo00
+97,D.J. Jones,27,DT,JoneD.01
+93,Dre'Mont Jones,25,DE,JoneDr00
+37,P.J. Locke,25,S,LockPJ00
+37,Marlon Mack,26,RB,MackMa00
+54,Jacob Martin,27,OLB,MartJa02
+27,Damarri Mathis,23,CB,MathDa00
+8,Brandon McManus,31,K,McMaBr01
+77,Quinn Meinerz,24,OL,MeinQu02
+28,Latavius Murray,32,RB,MurrLa00
+13,Michael Ojemudia,25,CB,OjemMi00
+85,Albert Okwuegbunam,24,TE,OkwuAl00
+20,Darius Phillips,27,CB,PhilDa02
+98,Mike Purcell,31,DL,PurcMi00
+66,Dalton Risner,27,G,RisnDa00
+4,Brett Rypien,26,QB,RypiBr00
+82,Eric Saubert,28,TE,SaubEr00
+31,Justin Simmons,29,S,SimmJu00
+49,Alex Singleton,29,LB,SingAl00
+40,Justin Strnad,26,LB,StrnJu00
+2,Patrick Surtain II,22,CB,SurtPa01
+14,Courtland Sutton,27,WR,SuttCo00
+87,Eric Tomlinson,30,TE,TomlEr01
+32,Delarrin Turner-Yell,23,S,TurnDe02
+96,Eyioma Uwazurike,24,DE,UwazEy00
+15,Jalen Virgil,24,WR,VirgJa00
+17,Corliss Waitman,27,P,WaitCo00
+12,Montrell Washington,23,WR,WashMo00
+60,Luke Wattenberg,25,C,WattLu00
+90,DeShawn Williams,30,DT,WillDe04
+21,K'Waun Williams,31,CB,WillKW00
+3,Russell Wilson,34,QB,WilsRu00
+46,Jacob Bobenmoyer (IRD),25,LS,BobeJa00
+45,Christopher Allen (IR),24,OLB,AlleCh04
+72,Garett Bolles (IR),30,T,BollGa00
+26,Mike Boone (IR),27,RB,BoonMi00
+28,Damarea Crockett (IR),25,RB,CrocDa01
+79,Lloyd Cushenberry III (IR),25,C,CushLl00
+21,Ronald Darby (IR),28,CB,DarbRo00
+48,Mitchell Fraboni (IR),26,LS,FrabMi00
+5,Randy Gregory (IR),30,OLB,GregRa00
+94,Aaron Patrick (IR),26,OLB,PatrAa00
+81,Tim Patrick (IR),29,WR,PatrTi00
+30,Caden Sterns (IR),23,S,SterCa00
+74,Casey Tucker (IR),27,T,TuckCa00
+57,Billy Turner (IR),31,OL,TurnBi00
+33,Javonte Williams (IR),22,RB,WillJa10

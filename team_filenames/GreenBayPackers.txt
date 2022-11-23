@@ -1,0 +1,59 @@
+44,Johnathan Abram,26,S,AbraJo01
+23,Jaire Alexander,25,CB,AlexJa00
+31,Adrian Amos,29,S,AmosAd00
+69,David Bakhtiari,31,T,BakhDa00
+35,Corey Ballentine,26,CB,BallCo00
+51,Krys Barnes,24,LB,BarnKr00
+59,De'Vondre Campbell,29,LB,CampDe00
+24,Tariq Carpenter,24,S,CarpTa00
+97,Kenny Clark,27,DL,ClarKe01
+18,Randall Cobb,32,WR,CobbRa00
+56,Jack Coco,24,LS,CocoJa00
+2,Mason Crosby,38,K,CrosMa20
+84,Tyler Davis,25,TE,DaviTy02
+81,Josiah Deguara,25,TE,DeguJo00
+28,AJ Dillon,24,RB,DillAJ00
+87,Romeo Doubs,22,WR,DoubRo00
+29,Rasul Douglas,28,CB,DougRa00
+55,Kingsley Enagbare,22,LB,EnagKi00
+99,Jonathan Ford,24,DL,FordJo00
+20,Rudy Ford,28,S,FordRu00
+53,Jonathan Garvin,23,LB,GarvJo00
+54,Ladarius Hamilton,24,LB,HamiLa01
+22,Shemar Jean-Charles,24,CB,JeanSh00
+74,Elgton Jenkins,27,G,JenkEl00
+33,Aaron Jones,28,RB,JoneAa00
+13,Allen Lazard,27,WR,LazaAl00
+6,Dallin Leavitt,28,S,LeavDa00
+89,Marcedes Lewis,38,TE,LewiMa00
+10,Jordan Love,24,QB,LoveJo03
+94,Dean Lowry,28,DE,LowrDe00
+58,Isaiah McDuffie,23,LB,McDuIs00
+71,Josh Myers,24,OL,MyerJo00
+70,Royce Newman,25,OL,NewmRo00
+73,Yosuah Nijman,26,T,NijmYo01
+25,Keisean Nixon,25,CB,NixoKe00
+16,Pat O'Donnell,31,P,ODonPa00
+90,Jarran Reed,30,DT,ReedJa02
+75,Sean Rhyan,24,T,RhyaSe00
+12,Aaron Rodgers,39,QB,RodgAa00
+76,Jon Runyan Jr.,25,G,RunyJo00
+26,Darnell Savage Jr.,25,S,SavaDa00
+93,Tedarrell Slaton,25,DT,SlatTe00
+91,Preston Smith,30,LB,SmitPr00
+27,Patrick Taylor,24,RB,TaylPa01
+78,Luke Tenuta,23,T,TenuLu00
+50,Zach Tom,23,OL,TomxZa00
+85,Robert Tonyan,28,TE,TonyRo00
+83,Samori Toure,24,WR,TourSa00
+7,Quay Walker,22,LB,WalkQu00
+63,Rasheed Walker,22,OL,WalkRa00
+11,Sammy Watkins,29,WR,WatkSa00
+9,Christian Watson,23,WR,WatsCh00
+45,Eric Wilson,28,LB,WilsEr00
+95,Devonte Wyatt,24,DT,WyatDe00
+72,Caleb Jones (NON),23,T,JoneCa03
+40,Tipa Galeai (IRD),25,LB,GaleTi01
+52,Rashan Gary (IR),25,LB,GaryRa00
+67,Jake Hanson (IR),25,C,HansJa00
+21,Eric Stokes (IR),23,CB,StokEr00

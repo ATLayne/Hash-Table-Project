@@ -1,0 +1,65 @@
+22,Ameer Abdullah,29,RB,AbduAm00
+17,Davante Adams,30,WR,AdamDa01
+29,Anthony Averett,28,CB,AverAn00
+64,Alex Bars,27,OL,BarsAl01
+78,Jackson Barton,27,T,BartJa00
+97,Andrew Billings,27,DT,BillAn00
+34,Brandon Bolden,32,RB,BoldBr00
+36,Curtis Bolton,27,LB,BoltCu00
+96,Tashawn Bower,27,DE,BoweTa00
+38,Brittain Brown,25,RB,BrowBr06
+50,Jayon Brown,27,LB,BrowJa06
+58,Darien Butler,22,LB,ButlDa00
+73,Matthew Butler,23,DT,ButlMa02
+2,Daniel Carlson,27,K,CarlDa00
+4,Derek Carr,31,QB,CarrDe02
+6,AJ Cole III,27,P,ColeAJ01
+84,Keelan Cole,29,WR,ColeKe00
+67,Lester Cotton,26,G,CottLe00
+98,Maxx Crosby,25,DE,CrosMa00
+72,Jermaine Eluemunor,28,OL,ElueJe00
+41,Matthias Farley,30,S,FarlMa00
+92,Neil Farrell,24,DT,FarrNe00
+99,Clelin Ferrell,25,DE,FerrCl00
+37,Tyler Hall,24,CB,HallTy01
+30,Duron Harmon,31,S,HarmDu00
+10,Mack Hollins,29,WR,HollMa00
+88,Jacob Hollister,29,TE,HollJa03
+80,Jesper Horsted,25,TE,HorsJe00
+28,Josh Jacobs,24,RB,JacoJo01
+68,Andre James,25,C,JameAn01
+45,Jakob Johnson,28,FB,JohnJa12
+55,Chandler Jones,32,DE,JoneCh03
+31,Sidney Jones,26,CB,JoneSi00
+51,Malcolm Koonce,24,DE,KoonMa00
+59,Luke Masterson,24,LB,MastLu00
+74,Kolton Miller,27,T,MillKo00
+25,Trevon Moehrig,23,S,MoehTr00
+87,Foster Moreau,25,TE,MoreFo00
+77,Thayer Munford,23,T,MunfTh00
+91,Bilal Nichols,26,DT,NichBi00
+66,Dylan Parham,23,G,ParhDy00
+52,Denzel Perryman,30,LB,PerrDe00
+20,Isaiah Pola-Mao,23,S,PolaIs00
+21,Amik Robertson,24,CB,RobeAm00
+47,Trent Sieg,27,LS,SiegTr00
+76,John Simpson,25,G,SimpJo00
+3,Jarrett Stidham,26,QB,StidJa00
+33,Roderic Teamer,25,S,TeamRo00
+90,Jerry Tillery,26,DL,TillJe00
+19,DJ Turner,25,WR,TurnDJ00
+95,Kendal Vickers,27,DT,VickKe00
+27,Sam Webb,24,CB,WebbSa00
+35,Zamir White,23,RB,WhitZa01
+26,Rock Ya-Sin,26,CB,Ya-SRo00
+5,Divine Deablo (IR),24,LB,DeabDi00
+73,Vitaliy Gurman (IR),24,OL,GurmVi00
+71,Justin Herron (IR),27,OL,HerrJu00
+39,Nate Hobbs (IR),23,CB,HobbNa00
+94,Jordan Jenkins (IR),28,DE,JenkJo01
+43,Micah Kiser (IR),27,LB,KiseMi00
+36,Sincere McCormick (IR),22,RB,McCoSi00
+75,Brandon Parker (IR),27,T,ParkBr01
+13,Hunter Renfrow (IR),27,WR,RenfHu00
+69,Myron Tagovailoa-Amosa (IR),23,DE,TagoMy02
+83,Darren Waller (IR),30,TE,WallDa01

@@ -1,0 +1,65 @@
+77,Jack Anderson,24,G,AndeJa01
+26,Saquon Barkley,25,RB,BarkSa00
+45,Daniel Bellinger,22,TE,BellDa00
+24,Dane Belton,22,S,BeltDa00
+31,Matt Breida,27,RB,BreiMa00
+23,Gary Brightwell,23,RB,BrigGa00
+47,Cam Brown,24,LB,BrowCa01
+83,Lawrence Cager,25,TE,CageLa01
+59,Austin Calitro,28,LB,CaliAu00
+52,Carter Coughlin,25,LB,CougCa00
+48,Tae Crowder,25,LB,CrowTa00
+71,Justin Ellis,32,DL,ElliJu01
+75,Joshua Ezeudu,23,OL,EzeuJo00
+76,Jon Feliciano,30,OL,FeliJo00
+28,Cordale Flott,21,DB,FlotCo00
+49,Tomon Fox,24,OLB,FoxxTo00
+5,Graham Gano,35,K,GanoGr44
+65,Nick Gates,27,C,GateNi00
+17,Jamie Gillan,25,P,GillJa00
+64,Mark Glowinski,30,OL,GlowMa00
+19,Kenny Golladay,29,WR,GollKe00
+18,Isaiah Hodgins,24,WR,HodgIs00
+30,Darnay Holmes,24,CB,HolmDa01
+88,Tanner Hudson,28,TE,HudsTa00
+22,Adoree' Jackson,27,CB,JackAd00
+80,Richie James,27,WR,JameRi00
+84,Marcus Johnson,28,WR,JohnMa07
+8,Daniel Jones,25,QB,JoneDa05
+58,Casey Kreiter,32,LS,KreiCa00
+97,Dexter Lawrence,25,DL,LawrDe03
+66,Shane Lemieux,25,G,LemiSh00
+20,Julian Love,24,S,LoveJu00
+36,Nick McCloud,24,CB,McClNi00
+41,Micah McFadden,22,LB,McFaMi01
+96,Henry Mondeaux,27,DL,MondHe00
+37,Fabian Moreau,28,DB,MoreFa00
+85,Chris Myarick,27,FB,MyarCh00
+73,Evan Neal,22,T,NealEv00
+74,Matt Peart,25,T,PearMa00
+79,Tyre Phillips,25,OL,PhilTy00
+27,Jason Pinnock,23,S,PinnJa01
+17,Wan'Dale Robinson,21,WR,RobiWa01
+95,Quincy Roche,24,OLB,RochQu00
+13,David Sills,26,WR,SillDa01
+86,Darius Slayton,25,WR,SlayDa01
+94,Elerson Smith,24,OLB,SmitEl00
+45,Jaylon Smith,27,OLB,SmitJa05
+2,Tyrod Taylor,33,QB,TaylTy00
+5,Kayvon Thibodeaux,22,OLB,ThibKa00
+78,Andrew Thomas,23,T,ThomAn02
+55,Jihad Ward,28,OLB,WardJi02
+99,Leonard Williams,28,DL,WillLe02
+25,Rodarius Williams,26,CB,WillRo07
+53,Oshane Ximines,26,OLB,XimiOs00
+29,Xavier McKinney (NON),23,S,McKiXa00
+41,Darrian Beavers (IR),23,LB,BeavDa00
+68,Ben Bredeson (IR),24,G,BredBe00
+98,D.J. Davidson (IR),25,DL,DaviDJ00
+36,Tony Jefferson (IR),30,S,JeffTo00
+15,Collin Johnson (IR),25,WR,JohnCo01
+60,Marcus McKethan (IR),23,OL,McKeMa01
+51,Azeez Ojulari (IR),22,OLB,OjulAz00
+33,Aaron Robinson (IR),25,CB,RobiAa00
+3,Sterling Shepard (IR),29,WR,ShepSt00
+93,Nick Williams (IR),32,DL,WillNi01

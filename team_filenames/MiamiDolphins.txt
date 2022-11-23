@@ -1,0 +1,64 @@
+26,Salvon Ahmed,24,RB,AhmeSa01
+72,Terron Armstead,31,T,ArmsTe00
+55,Jerome Baker,26,LB,BakeJe00
+20,Justin Bethel,32,CB,BethJu00
+5,Teddy Bridgewater,30,QB,BridTe00
+22,Elijah Campbell,27,DB,CampEl00
+2,Bradley Chubb,26,OLB,ChubBr00
+48,Tanner Conner,24,TE,ConnTa00
+85,River Cracraft,28,WR,CracRi00
+27,Keion Crossen,26,DB,CrosKe00
+98,Raekwon Davis,25,DT,DaviRa03
+63,Michael Deiter,26,OL,DeitMi00
+49,Samuel Eguavoen,29,LB,EguaSa00
+18,Erik Ezukanma,22,WR,EzukEr00
+42,Clayton Fejedelem,29,S,FejeCl00
+44,Blake Ferguson,25,LS,FergBl00
+3,Myles Gaskin,25,RB,GaskMy00
+88,Mike Gesicki,27,TE,GesiMi00
+10,Tyreek Hill,28,WR,HillTy00
+8,Jevon Holland,22,S,HollJe02
+25,Xavien Howard,29,CB,HowaXa00
+68,Robert Hunt,26,OL,HuntRo01
+9,Noah Igbinoghene,23,CB,IgbiNo00
+30,Alec Ingold,26,FB,IngoAl01
+6,Melvin Ingram,33,LB,IngrMe00
+73,Austin Jackson,23,T,JackAu00
+77,John Jenkins,33,DT,JenkJo00
+65,Robert Jones,23,OL,JoneRo02
+28,Kader Kohou,24,CB,KohoKa00
+75,Greg Little,25,T,LittGr01
+84,Hunter Long,24,TE,LongHu00
+32,Verone McKinley,22,S,McKiVe00
+4,Thomas Morstead,36,P,MorsTh00
+31,Raheem Mostert,30,RB,MostRa00
+15,Jaelan Phillips,23,LB,PhilJa02
+45,Duke Riley,28,LB,RileDu00
+52,Elandon Roberts,28,LB,RobeEl00
+21,Eric Rowe,30,S,RoweEr00
+7,Jason Sanders,27,K,SandJa00
+71,Brandon Shell,30,OL,ShelBr00
+14,Trent Sherfield,26,WR,SherTr00
+92,Zach Sieler,27,DT,SielZa00
+81,Durham Smythe,27,TE,SmytDu00
+1,Tua Tagovailoa,24,QB,TagoTu00
+19,Skylar Thompson,25,QB,ThomSk00
+41,Channing Tindall,22,LB,TindCh00
+43,Andrew Van Ginkel,27,LB,VanGAn00
+17,Jaylen Waddle,24,WR,WaddJa00
+94,Christian Wilkins,27,DT,WilkCh00
+58,Connor Williams,25,OL,WillCo00
+11,Cedrick Wilson Jr.,27,WR,WilsCe01
+23,Jeff Wilson,27,RB,WilsJe01
+24,Byron Jones (PUP),30,CB,JoneBy00
+82,Cethan Carter (IR),27,TE,CartCe00
+74,Liam Eichenberg (IR),24,OL,EichLi00
+90,Trey Flowers (IR),29,LB,FlowTr00
+96,Porter Gustin (IR),25,LB,GustPo01
+29,Brandon Jones (IR),24,S,JoneBr06
+46,John Lovett (IR),26,FB,LoveJo02
+40,Nik Needham (IR),26,CB,NeedNi00
+91,Emmanuel Ogbah (IR),29,DE,OgbaEm00
+80,Adam Shaheen (IR),28,TE,ShahAd00
+83,Freddie Swain (IR),24,WR,SwaiFr00
+6,Trill Williams (IR),23,CB,WillTr07

@@ -1,0 +1,63 @@
+89,Mark Andrews,27,TE,AndrMa00
+5,Jalyn Armour-Davis,23,CB,ArmoJa00
+54,Tyus Bowser,27,OLB,BowsTy00
+86,Nick Boyle,29,TE,BoylNi00
+56,Josh Bynes,33,LB,ByneJo00
+93,Calais Campbell,36,DT,CampCa99
+36,Chuck Clark,27,S,ClarCh00
+66,Ben Cleveland,24,G,ClevBe00
+63,Trystan Colon-Castillo,24,OL,ColoTr01
+28,Mike Davis,29,RB,DaviMi01
+17,Kenyan Drake,28,RB,DrakKe00
+13,Devin Duvernay,25,WR,DuveDe00
+35,Gus Edwards,27,RB,EdwaGu00
+77,Daniel Faalele,23,T,FaalDa00
+14,Kyle Hamilton,21,S,HamiKy00
+40,Malik Harrison,24,LB,HarrMa06
+43,Justice Hill,25,RB,HillJu00
+50,Justin Houston,33,OLB,HousJu00
+44,Marlon Humphrey,26,CB,HumpMa00
+2,Tyler Huntley,24,QB,HuntTy01
+8,Lamar Jackson,25,QB,JackLa00
+98,Travis Jones,23,DT,JoneTr00
+88,Charlie Kolar,23,TE,KolaCh00
+80,Isaiah Likely,22,TE,LikeIs00
+64,Tyler Linderbaum,22,C,LindTy00
+92,Justin Madubuike,25,DT,MaduJu00
+65,Patrick Mekari,25,OL,MekaPa00
+46,Nick Moore,30,LS,MoorNi00
+78,Morgan Moses,31,T,MoseMo00
+90,David Ojabo,22,OLB,OjabDa00
+84,Josh Oliver,25,TE,OlivJo00
+99,Odafe Oweh,24,OLB,OwehJa00
+24,Marcus Peters,29,CB,PeteMa00
+53,Del'Shawn Phillips,26,LB,PhilDe00
+4,Jason Pierre-Paul,33,OLB,PierJa99
+72,Ben Powers,26,G,PoweBe00
+11,James Proche,26,WR,ProcJa00
+6,Patrick Queen,23,LB,QueePa00
+42,Patrick Ricard,28,FB,RicaPa00
+10,Demarcus Robinson,28,WR,RobiDe01
+25,Kevon Seymour,29,CB,SeymKe00
+18,Roquan Smith,25,LB,SmitRo07
+79,Ronnie Stanley,28,T,StanRo00
+21,Brandon Stephens,25,DB,StepBr01
+26,Geno Stone,23,S,StonGe00
+11,Jordan Stout,24,P,StouJo00
+9,Justin Tucker,33,K,TuckJu00
+68,Brent Urban,31,DE,UrbaBr00
+16,Tylan Wallace,23,WR,WallTy00
+96,Broderick Washington Jr.,26,DT,WashBr01
+57,Kristian Welch,24,LB,WelcKr00
+22,Damarion Williams,24,CB,WillDa15
+70,Kevin Zeitler,32,G,ZeitKe00
+12,Rashod Bateman (IR),23,WR,BateRa00
+47,Vince Biegel (IR),29,OLB,BiegVi00
+27,J.K. Dobbins (IR),24,RB,DobbJK00
+18,Kyle Fuller (IR),30,CB,FullKy00
+59,Daelin Hayes (IR),24,OLB,HayeDa00
+71,Ja'Wuan James (IR),30,T,JameJa01
+60,Steven Means (IR),32,OLB,MeanSt00
+58,Michael Pierce (IR),30,DT,PierMi00
+46,Josh Ross (IR),23,LB,RossJo01
+32,Marcus Williams (IR),26,S,WillMa06

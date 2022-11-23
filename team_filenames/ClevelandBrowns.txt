@@ -1,0 +1,65 @@
+37,D'Anthony Bell,26,S,BellDA03
+18,David Bell,22,WR,BellDa02
+75,Joel Bitonio,31,G,BitoJo00
+13,Corey Bojorquez,26,P,BojoCo00
+7,Jacoby Brissett,30,QB,BrisJa00
+84,Pharaoh Brown,28,TE,BrowPh01
+99,Taven Bryan,26,DT,BryaTa00
+88,Harrison Bryant,24,TE,BryaHa00
+24,Nick Chubb,27,RB,ChubNi00
+90,Jadeveon Clowney,29,DE,ClowJa00
+78,Jack Conklin,28,T,ConkJa00
+2,Amari Cooper,28,WR,CoopAm00
+22,Grant Delpit,24,S,DelpGr00
+15,Joshua Dobbs,27,QB,DobbJo00
+68,Michael Dunn,28,G,DunnMi01
+96,Jordan Elliott,25,DT,ElliJo02
+23,Martin Emerson,22,CB,EmerMa00
+25,Demetric Felton,24,RB,FeltDe00
+42,Tony Fields,23,LB,FielTo00
+79,Drew Forbes,25,G,ForbDr00
+34,Jerome Ford,23,RB,FordJe00
+72,Hjalte Froholdt,26,G,FrohHj00
+95,Myles Garrett,27,DE,GarrMy00
+27,Thomas Graham,23,CB,GrahTh00
+38,A.J. Green,24,CB,GreeAJ00
+33,Ronnie Harrison,25,S,HarrRo02
+74,Chris Hubbard,31,T,HubbCh00
+66,James Hudson,23,T,HudsJa00
+47,Charley Hughlett,32,LS,HughCh01
+27,Kareem Hunt,27,RB,HuntKa00
+30,D'Ernest Johnson,26,RB,JohnDE04
+43,John Johnson,27,S,JohnJo10
+54,Deion Jones,28,MLB,JoneDe01
+51,Jordan Kunaszyk,26,LB,KunaJo00
+8,Kellen Mond,23,QB,MondKe00
+20,Greg Newsome II,22,CB,NewsGr00
+85,David Njoku,26,TE,NjokDa00
+28,Jeremiah Owusu-Koramoah,23,LB,OwusJe00
+11,Donovan Peoples-Jones,23,WR,PeopDo00
+55,Ethan Pocic,27,C,PociEt00
+10,Anthony Schwartz,22,WR,SchwAn00
+90,Ben Stille,25,DT,StilBe00
+44,Sione Takitaki,27,LB,TakiSi00
+77,Wyatt Teller,28,G,TellWy00
+58,Isaiah Thomas,24,DE,ThomIs01
+93,Tommy Togiai,23,DT,TogiTo00
+21,Denzel Ward,25,CB,WardDe02
+26,Greedy Williams,25,CB,WillGr00
+71,Jedrick Wills Jr.,23,T,WillJe04
+97,Perrion Winfrey,22,DT,WinfPe00
+12,Michael Woods II,22,WR,WoodMi00
+94,Alex Wright,22,DE,WrigAl01
+3,Cade York,21,K,YorkCa00
+4,Deshaun Watson (SUS),27,QB,WatsDe00
+69,Chase Winovich (IRD),27,DE,WinoCh00
+52,Dawson Deaton (IR),23,G,DeatDa00
+9,Jakeem Grant (IR),30,WR,GranJa00
+59,Joe Haeg (IR),29,T,HaegJo00
+53,Nick Harris (IR),24,C,HarrNi01
+81,Jesse James (IR),28,TE,JameJe00
+61,Chris Odom (IR),28,LB,OdomCh00
+50,Jacob Phillips (IR),23,LB,PhilJa01
+5,Anthony Walker (IR),27,LB,WalkAn01
+91,Stephen Weatherly (IR),28,DE,WeatSt00
+17,Isaiah Weston (IR),25,WR,WestIs00

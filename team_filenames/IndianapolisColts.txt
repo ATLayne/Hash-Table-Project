@@ -1,0 +1,59 @@
+81,Mo Alie-Cox,29,TE,AlieMo00
+52,Ben Banogu,26,DE,BanoBe00
+32,Julian Blackmon,24,S,BlacJu01
+99,DeForest Buckner,28,DT,BuckDe00
+1,Parris Campbell,25,WR,CampPa00
+15,Keke Coutee,25,WR,CoutKe00
+68,Byron Cowart,26,DT,CowaBy00
+20,Nick Cross,21,S,CrosNi00
+43,Trevor Denbow,24,S,DenbTr00
+57,JoJo Domann,25,LB,DomaJo00
+16,Ashton Dulin,25,WR,DuliAs00
+4,Sam Ehlinger,24,QB,EhliSa00
+31,Brandon Facyson,28,CB,FacyBr00
+30,Dallis Flowers,25,CB,FlowDa00
+9,Nick Foles,33,QB,FoleNi00
+44,Zaire Franklin,26,LB,FranZa00
+62,Wesley French,26,C,FrenWe00
+75,Will Fries,24,G,FrieWi00
+5,Stephon Gilmore,32,CB,GilmSt00
+83,Kylen Granson,24,TE,GranKy00
+6,Matt Haack,28,P,HaacMa00
+35,Deon Jackson,23,RB,JackDe02
+93,Eric Johnson,24,DT,JohnEr01
+73,Dennis Kelly,32,T,KellDe00
+78,Ryan Kelly,29,C,KellRy00
+7,Chase McLaughlin,26,K,McLaCh00
+26,Rodney McLeod,32,S,McLeRo00
+23,Kenny Moore,27,CB,MoorKe03
+21,Zack Moss,25,RB,MossZa00
+56,Quenton Nelson,26,OL,NelsQu00
+91,Yannick Ngakoue,27,DE,NgakYa00
+59,Ifeadi Odenigbo,28,DE,OdenIf00
+54,Dayo Odeyingbo,23,DE,OdeyDa00
+58,Bobby Okereke,26,LB,OkerBo00
+51,Kwity Paye,24,DE,PayeKw00
+14,Alec Pierce,22,WR,PierAl00
+63,Danny Pinter,26,G,PintDa00
+11,Michael Pittman Jr.,25,WR,PittMi01
+69,Matt Pryor,28,T,PryoMa00
+79,Bernhard Raimann,25,T,RaimBe00
+46,Luke Rhodes,30,LS,RhodLu00
+34,Isaiah Rodgers,24,CB,RodgIs00
+2,Matt Ryan,37,QB,RyanMa00
+72,Braden Smith,26,T,SmitBr06
+45,E.J. Speed,27,LB,SpeeEJ00
+90,Grover Stewart,29,DT,StewGr00
+17,Mike Strachan,25,WR,StraMi03
+41,Grant Stuard,24,LB,StuaGr00
+28,Jonathan Taylor,23,RB,TaylJo02
+25,Rodney Thomas II,24,DB,ThomRo07
+66,Chris Williams,24,DT,WillCh08
+80,Jelani Woods,24,TE,WoodJe01
+53,Shaquille Leonard (IR),27,LB,LeonDa00
+94,Tyquan Lewis (IR),27,DE,LewiTy00
+61,Carter O'Donnell (IR),24,T,ODonCa00
+85,Andrew Ogletree (IR),24,TE,OgleAn00
+27,D'Vonte Price (IR),23,RB,PricDV00
+8,Rigoberto Sanchez (IR),28,P,SancRi00
+33,Armani Watts (IR),26,S,WattAr00

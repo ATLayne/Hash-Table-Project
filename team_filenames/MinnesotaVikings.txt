@@ -1,0 +1,62 @@
+33,Brian Asamoah,22,LB,AsamBr00
+96,Ross Blacklock,24,DT,BlacRo00
+23,Andrew Booth,22,CB,BootAn00
+29,Kris Boyd,26,CB,BoydKr00
+56,Garrett Bradbury,27,C,BradGa00
+64,Blake Brandel,25,T,BranBl00
+79,Jonathan Bullard,29,DL,BullJo00
+24,Camryn Bynum,24,S,BynuCa00
+72,Ezra Cleveland,24,G,ClevEz00
+4,Dalvin Cook,27,RB,CookDa01
+8,Kirk Cousins,34,QB,CousKi00
+71,Christian Darrisaw,23,T,DarrCh00
+42,Andrew DePaola,35,LS,DePaAn00
+45,Troy Dye,26,LB,DyexTr00
+21,Akayleb Evans,23,CB,EvanAk00
+31,Tay Gowan,24,CB,GowaTa00
+30,C.J. Ham,29,FB,HamxC.00
+58,Jordan Hicks,30,LB,HickJo00
+87,T.J. Hockenson,25,TE,HockTJ00
+99,Danielle Hunter,28,OLB,HuntDa01
+67,Ed Ingram,23,G,IngrEd00
+25,Theo Jackson,24,S,JackTh00
+18,Justin Jefferson,23,WR,JeffJu00
+91,Patrick Jones II,24,OLB,JonePa00
+1,Greg Joseph,28,K,JoseGr00
+54,Eric Kendricks,30,LB,KendEr00
+63,Vederian Lowe,23,T,LoweVe00
+92,James Lynch,23,DT,LyncJa00
+2,Alexander Mattison,24,RB,MattAl01
+44,Josh Metellus,24,S,MeteJo00
+12,Nick Mullens,27,QB,MullNi00
+86,Johnny Mundt,28,TE,MundJo00
+34,Nick Muse,24,TE,MuseNi00
+83,Jalen Nailor,23,WR,NailJa00
+26,Kene Nwangwu,24,RB,NwanKe00
+75,Brian O'Neill,27,T,ONeiBr00
+17,K.J. Osborn,25,WR,OsboKJ00
+90,Esezi Otomewo,23,DE,OtomEs00
+7,Patrick Peterson,32,CB,PetePa00
+97,Harrison Phillips,26,DT,PhilHa00
+5,Jalen Reagor,23,WR,ReagJa00
+62,Chris Reed,30,G,ReedCh00
+65,Austin Schlottmann,27,OL,SchlAu00
+20,Duke Shelley,26,CB,ShelDu00
+22,Harrison Smith,33,S,SmitHa00
+55,Za'Darius Smith,30,LB,SmitZa00
+39,Chandon Sullivan,26,CB,SullCh00
+19,Adam Thielen,32,WR,ThieAd00
+94,Dalvin Tomlinson,28,DT,TomlDa00
+95,Khyiris Tonga,26,DL,TongKh00
+74,Oli Udoh,25,G,UdohOl01
+43,Luiji Vilain,24,OLB,VilaLu00
+98,D.J. Wonnum,25,OLB,WonnDJ00
+14,Ryan Wright,22,P,WrigRy00
+82,Ben Ellefson (IRD),26,TE,ElleBe00
+32,Ty Chandler (IR),24,RB,ChanTy01
+6,Lewis Cine (IR),23,S,CineLe00
+27,Cameron Dantzler (IR),24,CB,DantCa00
+89,Thomas Hennigan (IR),24,WR,HennTh01
+81,Olabisi Johnson (IR),25,WR,JohnOl00
+84,Irv Smith Jr. (IR),24,TE,SmitIr01
+79,Kenny Willekes (IR),25,DE,WillKe06

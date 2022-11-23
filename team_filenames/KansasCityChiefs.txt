@@ -1,0 +1,60 @@
+73,Nick Allegretti,26,G,AlleNi00
+32,Nick Bolton,22,LB,BoltNi00
+57,Orlando Brown Jr.,26,T,BrowOr00
+12,Shane Buechele,24,QB,BuecSh00
+45,Michael Burton,30,FB,BurtMi00
+26,Deon Bush,29,DB,BushDe00
+7,Harrison Butker,27,K,ButkHa00
+54,Leo Chenal,22,LB,ChenLe00
+74,Geron Christian,26,T,ChriGe01
+55,Frank Clark,29,DE,ClarFr01
+43,Jack Cochrane,23,LB,CochJa00
+6,Bryan Cook,23,S,CookBr02
+51,Michael Danna,25,DE,DannMi00
+8,Carlos Dunlap,33,DE,DunlCa99
+25,Clyde Edwards-Helaire,23,RB,EdwaCl00
+88,Jody Fortson,27,TE,FortJo01
+50,Willie Gay Jr.,24,LB,GayJWi00
+83,Noah Gray,23,TE,GrayNo00
+47,Darius Harris,26,LB,HarrDa07
+4,Chad Henne,37,QB,HennCh01
+70,Malik Herring,25,DE,HerrMa02
+52,Creed Humphrey,23,C,HumpCr00
+13,Nazeeh Johnson,24,S,JohnNa01
+95,Chris Jones,28,DT,JoneCh09
+2,Ronald Jones II,25,RB,JoneRo01
+59,Joshua Kaindoh,24,DE,KainJo00
+56,George Karlaftis III,21,DE,KarlGe00
+87,Travis Kelce,33,TE,KelcTr00
+85,Marcus Kemp,27,WR,KempMa00
+75,Darian Kinnard,23,T,KinnDa00
+26,Chris Lammons,26,CB,LammCh00
+15,Patrick Mahomes,27,QB,MahoPa00
+21,Trent McDuffie,22,CB,McDuTr00
+1,Jerick McKinnon,30,RB,McKiJe00
+24,Skyy Moore,22,WR,MoorSk01
+91,Derrick Nnadi,26,DT,NnadDe00
+10,Isiah Pacheco,22,RB,PachIs00
+14,Cornell Powell,25,WR,PoweCo00
+20,Justin Reid,25,S,ReidJu00
+99,Khalen Saunders,26,DT,SaunKh00
+65,Trey Smith,23,OL,SmitTr05
+9,JuJu Smith-Schuster,26,WR,SmitJu00
+38,L'Jarius Sneed,25,CB,SneeLJ00
+90,Taylor Stallworth,27,DT,StalTa00
+22,Juan Thornhill,27,S,ThorJu00
+62,Joe Thuney,30,OL,ThunJo00
+19,Kadarius Toney,23,WR,ToneKa00
+5,Tommy Townsend,26,P,TownTo01
+11,Marquez Valdes-Scantling,28,WR,ValdMa00
+70,Prince Tega Wanogho,25,T,WanoTe00
+35,Jaylen Watson,24,CB,WatsJa02
+84,Justin Watson,26,WR,WatsJu01
+23,Joshua Williams,23,DB,WillJo03
+41,James Winchester,33,LS,WincJa00
+77,Andrew Wylie,28,G,WyliAn00
+67,Lucas Niang (IRD),24,OL,NianLu00
+98,Tershawn Wharton (IRD),24,DT,WharTe00
+81,Blake Bell (IR),31,TE,BellBl00
+17,Mecole Hardman (IR),24,WR,HardMe00
+8,Justyn Ross (IR),23,WR,RossJu00

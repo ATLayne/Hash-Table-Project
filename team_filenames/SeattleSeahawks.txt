@@ -1,0 +1,65 @@
+67,Myles Adams,24,DT,AdamMy00
+57,Cody Barton,26,LB,BartCo00
+44,Nick Bellore,33,LB,BellNi01
+35,Joey Blount,24,FS,BlouJo00
+63,Austin Blythe,30,G,BlytAu00
+56,Jordyn Brooks,25,LB,BrooJo01
+22,Tre Brown,25,CB,BrowTr03
+8,Coby Bryant,23,CB,BryaCo01
+21,Artie Burns,27,CB,BurnAr00
+28,Justin Coleman,29,CB,ColeJu01
+91,L.J. Collier,27,DE,CollLJ00
+67,Charles Cross,22,T,CrosCh00
+74,Jake Curhan,24,T,CurhJa00
+31,DeeJay Dallas,24,RB,DallDe00
+4,Michael Dickson,26,P,DickMi00
+6,Quandre Diggs,29,FS,DiggQu00
+89,Will Dissly,26,TE,DissWi00
+1,D'Wayne Eskridge,25,WR,EskrDW00
+87,Noah Fant,25,TE,FantNo00
+97,Poona Ford,27,DT,FordPo00
+78,Stone Forsythe,25,T,ForsSt00
+61,Kyle Fuller,28,C,FullKy01
+11,Marquise Goodwin,32,WR,GoodMa00
+93,Shelby Harris,31,DE,HarrSh00
+19,Penny Hart,26,WR,HartPe01
+60,Phil Haynes,27,G,HaynPh00
+25,Travis Homer,24,RB,HomeTr00
+51,Bruce Irvin,35,LB,IrviBr00
+66,Gabe Jackson,31,G,JackGa00
+30,Michael Jackson,25,CB,JackMi01
+77,Quinton Jefferson,29,DE,JeffQu00
+13,Josh Jones,28,S,JoneJo06
+32,Tony Jones,25,RB,JoneTo04
+68,Damien Lewis,25,G,LewiDa05
+2,Drew Lock,26,QB,LockDr00
+16,Tyler Lockett,30,WR,LockTy00
+72,Abraham Lucas,24,T,LucaAb00
+53,Boye Mafe,24,LB,MafeBo00
+14,D.K. Metcalf,25,WR,MetcDK00
+90,Bryan Mone,27,DT,MoneBr00
+58,Tanner Muse,26,LB,MuseTa00
+5,Jason Myers,31,K,MyerJa00
+26,Ryan Neal,27,SS,NealRy00
+10,Uchenna Nwosu,26,LB,NwosUc00
+84,Colby Parkinson,23,TE,ParkCo02
+7,Geno Smith,32,QB,SmitGe00
+39,Teez Tabor,27,S,TaboTe00
+52,Darrell Taylor,25,LB,TaylDa00
+46,Carson Tinker,33,LS,TinkCa00
+9,Kenneth Walker III,22,RB,WalkKe00
+99,Al Woods,35,DT,WoodAl99
+27,Tariq Woolen,23,CB,WoolTa00
+83,Dareke Young,23,WR,YounDa02
+55,Ben Burr-Kirven (PUP),25,LB,BurrBe00
+59,Jon Rhattigan (PUP),23,LB,RhatJo00
+33,Jamal Adams (IR),27,SS,AdamJa00
+24,Isaiah Dunn (IR),23,CB,DunnIs00
+41,Cullen Gillaspia (IR),27,LB,GillCu00
+40,Darryl Johnson (IR),25,DE,JohnDa10
+34,Josh Johnson (IR),25,RB,JohnJo06
+69,Tyler Ott (IR),30,LS,OttxTy00
+20,Rashaad Penny (IR),26,RB,PennRa00
+98,Alton Robinson (IR),24,LB,RobiAl03
+92,Tyreke Smith (IR),22,LB,SmitTy03
+11,Cody Thompson (IR),26,WR,ThomCo04

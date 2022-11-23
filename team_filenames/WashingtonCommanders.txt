@@ -1,0 +1,63 @@
+93,Jonathan Allen,27,DT,AlleJo01
+87,John Bates,25,TE,BateJo00
+53,Jonathan Bostic,31,LB,BostJo00
+2,Dyami Brown,23,WR,BrowDy00
+35,Percy Butler,22,S,ButlPe00
+77,Saahdiq Charles,23,T,CharSa00
+54,Camaron Cheeseman,24,LS,CheeCa00
+76,Samuel Cosmi,23,T,CosmSa00
+31,Kamren Curl,23,S,CurlKa00
+52,Jamin Davis,24,LB,DaviJa11
+1,Jahan Dotson,22,WR,DotsJa00
+22,Darrick Forrest,23,S,ForrDa00
+29,Kendall Fuller,27,CB,FullKe00
+50,Nathan Gerry,27,LB,GerrNa00
+24,Antonio Gibson,24,RB,GibsAn00
+45,De'Jon Harris,25,LB,HarrDe10
+4,Taylor Heinicke,29,QB,HeinTa00
+55,Cole Holcomb,26,LB,HolcCo00
+34,Christian Holmes,25,CB,HolmCh00
+14,Sam Howell,22,QB,HoweSa00
+47,Khaleke Hudson,25,LB,HudsKh00
+36,Danny Johnson,27,CB,JohnDa09
+69,Tyler Larsen,31,C,LarsTy00
+72,Charles Leno Jr.,31,T,LenoCh00
+78,Cornelius Lucas,31,T,LucaCo01
+60,Nick Martin,29,C,MartNi00
+51,David Mayo,29,LB,MayoDa00
+20,Bobby McCain,29,S,McCaBo01
+17,Terry McLaurin,27,WR,McLaTe00
+15,Dax Milne,23,WR,MilnDa00
+68,Andrew Norwell,31,G,NorwAn01
+97,Efe Obada,30,DE,ObadEf00
+75,Chris Paul,24,G,PaulCh00
+94,Daron Payne,25,DT,PaynDa00
+39,Jeremy Reaves,26,S,ReavJe00
+91,John Ridgeway,23,DT,RidgJo00
+8,Brian Robinson Jr.,23,RB,RobiBr01
+10,Curtis Samuel,26,WR,SamuCu00
+11,Cam Sims,26,WR,SimsCa00
+3,Joey Slye,26,K,SlyeJo00
+96,James Smith-Williams,25,DE,SmitJa08
+25,Benjamin St-Juste,25,CB,StJuBe00
+90,Montez Sweat,26,DE,SweaMo00
+82,Logan Thomas,31,TE,ThomLo00
+58,Shaka Toney,24,DE,ToneSh00
+95,Casey Toohill,26,DE,ToohCa00
+85,Cole Turner,22,TE,TurnCo00
+53,Trai Turner,29,G,TurnTr01
+5,Tress Way,32,P,WayxTr00
+37,Rachad Wildgoose,22,CB,WildRa00
+35,Jonathan Williams,28,RB,WillJo07
+92,Daniel Wise,26,DT,WiseDa01
+99,Chase Young (IRD),23,DE,YounCh04
+40,Tariq Castro-Fields (IR),23,CB,CastTa00
+46,Milo Eifler (IR),24,LB,EiflMi00
+45,Curtis Hodges (IR),23,TE,HodgCu00
+74,Nolan Laufenberg (IR),23,G,LaufNo00
+98,Phidarian Mathis (IR),24,DT,MathPh00
+23,J.D. McKissic (IR),29,RB,McKiJ.00
+88,Armani Rogers (IR),25,TE,RogeAr00
+73,Chase Roullier (IR),29,C,RoulCh00
+71,Wes Schweitzer (IR),29,G,SchwWe00
+11,Carson Wentz (IR),30,QB,WentCa00

@@ -1,0 +1,60 @@
+1,Jaelon Darden,23,WR
+2,Kyle Trask,24,QB
+3,Ryan Succop,36,K
+5,Jake Camarda,23,P
+6,Julio Jones,33,WR
+7,Leonard Fournette,27,RB
+8,Kyle Rudolph,33,TE
+9,Joe Tryon-Shoyinka,23,OLB
+10,Scott Miller,25,WR
+11,Blaine Gabbert,33,QB
+12,Tom Brady,45,QB
+13,Mike Evans,29,WR
+14,Chris Godwin,26,WR
+15,Cole Beasley,33,WR
+16,Breshad Perriman,29,WR
+17,Russell Gage,26,WR
+21,Ke'Shawn Vaughn,25,RB
+22,Keanu Neal,27,FS
+23,Sean Murphy-Bunting,25,CB
+24,Carlton Davis,26,CB
+25,Giovani Bernard (IR),31,RB
+26,Logan Ryan,31,CB
+27,Zyon McCollum,23,CB
+29,Rachaad White,23,RB
+30,Dee Delaney,27,CB
+31,Antoine Winfield Jr.,24,S
+32,Mike Edwards,26,CB
+33,Kenny Young,28,MLB
+35,Jamel Dean,26,CB
+38,Kenjon Barner (IR),33,RB
+41,Ko Kieft,24,TE
+45,Devin White,24,LB
+49,Cam Gill (IR),25,LB
+50,Vita Vea,27,DT
+52,K.J. Britt,24,LB
+53,Olakunle Fatukasi,23,LB
+54,Lavonte David,32,OLB
+56,Rakeem Nunez-Roches,29,DT
+58,Shaquil Barrett,30,OLB
+60,Nick Leverett,25,G
+64,Aaron Stinnie (IR),28,G
+66,Ryan Jensen (IR),31,T
+67,Luke Goedeke,24,OL
+69,Shaq Mason,29,G
+70,Robert Hainsey,24,T
+72,Josh Wells (IR),31,T
+73,Brandon Walton,24,T
+74,Fred Johnson,25,G
+76,Donovan Smith,29,OT
+78,Tristan Wirfs,23,OL
+79,Pat O'Connor,29,DE
+84,Cameron Brate,31,TE
+88,Cade Otton,23,TE
+90,Logan Hall,22,DE
+92,William Gholston,31,DE
+93,Carl Nassib,29,DE
+95,Deadrin Senat,28,DT
+96,Akiem Hicks,33,DE
+97,Zach Triner,31,LS
+98,Anthony Nelson,25,DL

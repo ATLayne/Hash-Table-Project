@@ -1,0 +1,62 @@
+97,Mario Addison,35,DL,AddiMa00
+88,Jordan Akins,30,TE,AkinJo00
+3,Kyle Allen,26,QB,AlleKy00
+20,Eno Benjamin,23,RB,BenjEn00
+56,Thomas Booker,23,DL,BookTh00
+28,Rex Burkhead,32,RB,BurkRe00
+60,A.J. Cann,31,OL,CannA.00
+53,Blake Cashman,26,LB,CashBl00
+96,Maliek Collins,27,DL,CollMa00
+12,Nico Collins,23,WR,CollNi00
+13,Brandin Cooks,29,WR,CookBr00
+76,Austin Deculus,23,OL,DecuAu00
+2,Phillip Dorsett,29,WR,DorsPh00
+7,Ka'imi Fairbairn,28,K,FairKa01
+59,Kenyon Green,21,OL,GreeKe03
+92,Rasheem Green,25,DL,GreeRa01
+34,Troy Hairston,24,FB,HairTr00
+49,Jake Hansen,24,LB,HansJa01
+48,Christian Harris,21,LB,HarrCh06
+67,Charlie Heck,26,OL,HeckCh00
+43,Neville Hewitt,29,LB,HewiNe00
+69,Kurt Hinish,23,DL,HiniKu00
+83,O.J. Howard,28,TE,HowaO.00
+71,Tytus Howard,26,OL,HowaTy00
+55,Jerry Hughes,34,DL,HughJe99
+90,Jaleel Johnson,28,DT,JohnJa09
+11,Cameron Johnston,30,P,JohnCa02
+9,Brevin Jordan,22,TE,JordBr00
+25,Desmond King,28,DB,KingDe01
+58,Christian Kirksey,30,LB,KirkCh00
+91,Roy Lopez,25,DL,LopeRo00
+64,Justin McCray,30,OL,McCrJu00
+10,Davis Mills,24,QB,MillDa02
+15,Chris Moore,29,WR,MoorCh00
+79,Jimmy Morrissey,24,OL,MorrJi00
+23,Eric Murray,28,DB,MurrEr00
+21,Steven Nelson,29,DB,NelsSt01
+33,Dare Ogunbowale,28,RB,OgunDa00
+45,Ogbonnia Okoronkwo,27,DL,OkorOg00
+36,Jonathan Owens,27,DB,OwenJo01
+31,Dameon Pierce,22,RB,PierDa01
+5,Jalen Pitre,23,DB,PitrJa00
+54,Scott Quessenberry,27,OL,QuesSc00
+84,Teagan Quitoriano,22,TE,QuitTe00
+44,Jalen Reeves-Maybin,27,LB,ReevJa00
+19,Amari Rodgers,23,WR,RodgAm00
+1,Tremon Smith,26,DB,SmitTr04
+29,M.J. Stewart,27,DB,StewM.00
+24,Derek Stingley Jr.,21,DB,StinDe00
+2,Tavierre Thomas,26,DB,ThomTa01
+78,Laremy Tunsil,28,OL,TunsLa00
+32,Garret Wallow,23,LB,WallGa00
+46,Jon Weeks,36,LS,WeekJo00
+68,Justin Britt (NON),31,OL,BritJu00
+8,John Metchie (NON),22,WR,MetcJo00
+50,Michael Dwumfour (IRD),24,DL,DwumMi00
+30,Darius Anderson (IR),25,RB,AndeDa03
+35,Grayland Arnold (IR),25,DB,ArnoGr01
+52,Jonathan Greenard (IR),25,DL,GreeJo04
+57,Kevin Pierre-Louis (IR),31,LB,PierKe00
+95,Derek Rivers (IR),28,DE,RiveDe00
+70,Jordan Steckler (IR),26,OL,StecJo00

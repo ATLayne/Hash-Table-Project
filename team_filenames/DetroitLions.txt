@@ -1,0 +1,65 @@
+15,Maurice Alexander,25,WR,AlexMa02
+34,Alex Anzalone,28,LB,AnzaAl00
+74,Kayode Awosika,24,G,AwosKa00
+17,Michael Badgley,27,K,BadgMi00
+55,Derrick Barnes,23,LB,BarnDe02
+49,Chris Board,27,LB,BoarCh00
+90,Michael Brockers,32,DE,BrocMi00
+63,Evan Brown,26,C,BrowEv00
+2,Austin Bryant,26,DL,BryaAu00
+96,Isaiah Buggs,26,DL,BuggIs00
+45,Jason Cabinda,26,FB,CabiJa00
+79,John Cominsky,27,DE,ComiJo00
+47,Scott Daly,28,LS,DalySc01
+68,Taylor Decker,29,T,DeckTa00
+5,DeShon Elliott,25,S,ElliDe02
+3,Jack Fox,26,P,FoxxJa01
+16,Jared Goff,28,QB,GoffJa00
+53,Charles Harris,27,DL,HarrCh03
+25,Will Harris,27,CB,HarrWi02
+33,Juju Hughes,24,S,HughJu00
+23,Mike Hughes,25,CB,HughMi00
+97,Aidan Hutchinson,22,DE,HutcAi00
+73,Jonah Jackson,25,G,JackJo03
+42,Justin Jackson,26,RB,JackJu01
+39,Jerry Jacobs,25,CB,JacoJe00
+94,Benito Jones,25,DT,JoneBe03
+31,Kerby Joseph,22,S,JoseKe03
+85,Tom Kennedy,26,WR,KennTo01
+36,Chase Lucas,25,CB,LucaCh01
+54,Alim McNeill,22,DL,McNeAl00
+26,Ifeatu Melifonwu,23,S,MeliIf00
+82,James Mitchell,23,TE,MitcJa00
+38,C.J. Moore,27,S,MoorCJ01
+67,Matt Nelson,27,T,NelsMa00
+1,Jeff Okudah,23,CB,OkudJe00
+99,Julian Okwara,25,LB,OkwaJu00
+24,Amani Oruwariye,26,CB,OruwAm00
+93,Josh Paschal,23,DE,PascJo00
+57,Anthony Pittman,26,LB,PittAn01
+77,Frank Ragnow,26,C,RagnFr00
+11,Kalif Raymond,28,WR,RaymKa00
+8,Josh Reynolds,27,WR,ReynJo00
+44,Malcolm Rodriguez,23,LB,RodrMa00
+58,Penei Sewell,22,T,SewePe00
+70,Dan Skipper,28,T,SkipDa00
+14,Amon-Ra St. Brown,23,WR,StxxAm00
+71,Logan Stenberg,25,G,StenLo00
+10,Nate Sudfeld,29,QB,SudfNa00
+32,D'Andre Swift,23,RB,SwifDA00
+30,Jamaal Williams,27,RB,WillJa06
+51,Josh Woods,26,LB,WoodJo02
+89,Brock Wright,24,TE,WrigBr01
+84,Shane Zylstra,26,TE,ZylsSh00
+9,Jameson Williams (NON),21,WR,WillJa11
+4,DJ Chark (IRD),26,WR,CharDJ00
+95,Romeo Okwara (IRD),27,OLB,OkwaRo01
+17,Trinity Benson (IR),25,WR,BensTr00
+87,Quintez Cephus (IR),24,WR,CephQu00
+78,Tommy Kraemer (IR),24,G,KraeTo02
+75,Levi Onwuzurike (IR),24,DL,OnwuLe00
+27,Bobby Price (IR),24,CB,PricBo00
+46,Craig Reynolds (IR),26,RB,ReynCr00
+29,Saivion Smith (IR),25,CB,SmitSa02
+72,Halapoulivaati Vaitai (IR),29,G,VaitHa00
+21,Tracy Walker (IR),27,S,WalkTr01

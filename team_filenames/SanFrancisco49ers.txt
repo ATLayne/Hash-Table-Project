@@ -1,0 +1,61 @@
+11,Brandon Aiyuk,24,WR,AiyuBr00
+51,Azeez Al-Shaair,25,LB,AlShAz00
+91,Arik Armstead,29,DL,ArmsAr01
+65,Aaron Banks,25,OL,BankAa00
+97,Nick Bosa,25,DE,BosaNi00
+64,Jake Brendel,30,OL,BrenJa01
+60,Daniel Brunskill,28,OL,BrunDa00
+74,Spencer Burford,23,OL,BurfSp00
+48,Oren Burks,27,LB,BurkOr00
+32,Tyrion Davis-Price,22,RB,DaviTy03
+82,Ross Dwelley,27,TE,DwelRo00
+56,Samson Ebukam,27,DE,EbukSa00
+45,Demetrius Flannigan-Fowles,26,LB,FlanDe00
+10,Jimmy Garoppolo,31,QB,GaroJi00
+31,Tashaun Gipson,32,S,GipsTa00
+90,Kevin Givens,25,DT,GiveKe01
+9,Robbie Gould,40,K,gouldrob01
+6,Danny Gray,23,WR,GrayDa02
+57,Dre Greenlaw,25,LB,GreeDr00
+29,Talanoa Hufanga,23,S,HufaTa00
+92,Kerry Hyder,31,DE,HydeKe01
+95,Drake Jackson,21,DE,JackDr01
+15,Jauan Jennings,25,WR,JennJa00
+44,Kyle Juszczyk,31,FB,JuszKy00
+85,George Kittle,29,TE,KittGe00
+47,Tyler Kroft,30,TE,KrofTy00
+38,Deommodore Lenoir,23,DB,LenoDe00
+24,Jordan Mason,23,RB,MasoJo00
+23,Christian McCaffrey,26,RB,McCaCh01
+3,Ray-Ray McCloud,26,WR,McClRa00
+69,Mike McGlinchey,27,T,McGlMi00
+68,Colton McKivitz,26,OL,McKiCo00
+25,Elijah Mitchell,24,RB,MitcEl00
+76,Jaylon Moore,24,OL,MoorJa04
+33,Tarvarius Moore,26,DB,MoorTa00
+30,George Odum,29,DB,OdumGe00
+92,Charles Omenihu,25,DE,OmenCh00
+46,Taybor Pepper,28,LS,PeppTa00
+13,Brock Purdy,23,QB,PurdBr00
+98,Hassan Ridgeway,28,DT,RidgHa00
+59,Curtis Robinson,24,LB,RobiCu00
+19,Deebo Samuel,26,WR,SamuDe00
+20,Ambry Thomas,23,CB,ThomAm00
+53,Kemoko Turay,27,DL,TuraKe00
+35,Charvarius Ward,26,CB,WardCh01
+1,Jimmie Ward,31,DB,WardJi01
+54,Fred Warner,26,LB,WarnFr00
+71,Trent Williams,34,T,WillTr21
+75,Jordan Willis,27,DE,WillJo09
+18,Mitch Wishnowsky,30,P,WishMi00
+89,Charlie Woerner,25,TE,WoerCh00
+26,Samuel Womack,23,CB,WomaSa00
+63,Nick Zakelj,23,G,ZakeNi00
+93,Kalia Davis (NON),24,DT,DaviKa01
+99,Javon Kinlaw (IRD),25,DT,KinlJa00
+4,Emmanuel Moseley (IRD),26,CB,MoseEm00
+96,Maurice Hurst Jr. (IR),27,DL,HursMa00
+5,Trey Lance (IR),22,QB,LancTr00
+88,Jordan Matthews (IR),30,TE,MattJo00
+17,Tajae Sharpe (IR),28,WR,SharTa00
+2,Jason Verrett (IR),31,CB,VerrJa00

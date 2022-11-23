@@ -1,0 +1,71 @@
+47,Andrew Adams,30,DB,AdamAn00
+96,Denico Autry,32,DL,AutrDe00
+23,Tre Avery,25,CB,AverTr01
+80,C.J. Board,29,WR,BoarC.00
+55,Aaron Brewer,25,G,BrewAa01
+14,Randy Bullock,33,K,BullRa00
+16,Treylon Burks,22,WR,BurkTr00
+31,Kevin Byard,29,S,ByarKe01
+44,Tory Carter,23,FB,CartTo01
+61,Le'Raven Clark,29,T,ClarLe01
+53,Dylan Cole,28,LB,ColeDy00
+46,Morgan Cox,36,LS,CoxxMo00
+71,Dennis Daley,26,OL,DaleDe00
+64,Nate Davis,26,G,DaviNa01
+48,Bud Dupree,29,OLB,DuprAl00
+94,Mario Edwards,28,DE,EdwaMa01
+26,Kristian Fulton,24,CB,FultKr00
+38,Davontae Harris,27,DB,HarrDa05
+25,Hassan Haskins,23,RB,HaskHa00
+22,Derrick Henry,28,RB,HenrDe00
+40,Dontrell Hilliard,27,RB,HillDo00
+16,Cody Hollister,29,WR,HollCo00
+37,Amani Hooker,24,DB,HookAm00
+81,Austin Hooper,28,TE,HoopAu00
+60,Ben Jones,33,C,JoneBe01
+42,Joseph Jones,28,LB,JoneJo05
+90,Naquan Jones,24,DT,JoneNa01
+28,Joshua Kalu,27,DB,KaluJo00
+6,Josh Lambo,32,K,LambJo00
+61,Corey Levin,28,OL,LeviCo00
+51,David Long,26,LB,LongDa04
+30,Greg Mabin,28,CB,MabiGr00
+21,Roger McCreary,22,CB,McCrRo01
+39,Terrance Mitchell,30,DB,MitcTe00
+24,Elijah Molden,23,CB,MoldEl00
+91,Larrell Murchison,25,DT,MurcLa00
+85,Chigoziem Okonkwo,23,TE,OkonCh00
+59,Sam Okuayinonu,24,DT,OkuaSa00
+78,Nicholas Petit-Frere,23,OL,PetiNi00
+86,Kevin Rader,27,TE,RadeKe00
+75,Dillon Radunz,24,OL,RaduDi00
+56,Monty Rice,23,LB,RiceMo00
+57,Jordan Roos,29,G,RoosJo00
+52,Joe Schobert,29,LB,SchoJo00
+98,Jeffery Simmons,25,DT,SimmJe01
+4,Ryan Stonehouse,23,P,StonRy00
+97,Kevin Strong,26,DE,StroKe00
+87,Geoff Swaim,29,TE,SwaiGe00
+17,Ryan Tannehill,34,QB,TannRy00
+93,Teair Tart,25,DT,TartTe00
+95,DeMarcus Walker,28,DL,WalkDe03
+99,Rashad Weaver,25,OLB,WeavRa00
+15,Nick Westbrook-Ikhine,25,WR,WestNi00
+7,Malik Willis,23,QB,WillMa12
+2,Robert Woods,30,WR,WoodRo02
+11,Caleb Shudak (PUP),25,K,ShudCa00
+92,Olasunkanmi Adeniyi (IR),25,OLB,AdenOl00
+45,Chance Campbell (IR),23,LB,CampCh02
+23,Trenton Cannon (IR),28,RB,CannTr00
+41,Zach Cunningham (IR),28,LB,CunnZa00
+3,Caleb Farley (IR),24,CB,FarlCa00
+94,Da'Shawn Hand (IR),27,DE,HandDa00
+35,Chris Jackson (IR),24,DB,JackCh01
+20,Lonnie Johnson Jr. (IR),27,CB,JohnLo01
+73,Jamarco Jones (IR),26,OL,JoneJa08
+58,Harold Landry (IR),26,OLB,LandHa00
+77,Taylor Lewan  (IR),31,T,LewaTa00
+13,Racey McMath (IR),23,WR,McMaRa00
+33,A.J. Moore (IR),27,S,MoorA.00
+18,Kyle Philips (IR),23,WR,PhilKy01
+29,Josh Thompson (IR),24,DB,ThomJo07

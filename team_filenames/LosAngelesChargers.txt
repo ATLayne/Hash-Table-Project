@@ -1,0 +1,69 @@
+24,Nasir Adderley,25,S,AddeNa00
+13,Keenan Allen,30,WR,AlleKe00
+45,Jeremiah Attaochu,29,OLB,AttaJe00
+83,Michael Bandy,25,WR,BandMi00
+23,Bryce Callahan,31,CB,CallBr00
+1,DeAndre Carter,29,WR,CartDe02
+76,Will Clapp,27,OL,ClapWi00
+4,Chase Daniel,36,QB,DaniCh00
+43,Michael Davis,27,CB,DaviMi03
+90,Tyeler Davison,30,DL,DaviTy01
+15,Cameron Dicker,22,K,DickCa00
+30,Austin Ekeler,27,RB,EkelAu00
+7,Gerald Everett,28,TE,EverGe00
+96,Breiden Fehoko,26,DL,FehoBr01
+71,Matt Feiler,30,G,FeilMa00
+56,Morgan Fox,28,DL,FoxxMo00
+92,Joe Gaziano,26,DL,GaziJo01
+32,Alohi Gilman,25,S,GilmAl00
+47,Josh Harris,33,LS,HarrJo02
+10,Justin Herbert,24,QB,HerbJu00
+6,Dustin Hopkins,32,K,HopkDu00
+40,Zander Horvath,24,FB,HorvZa00
+64,Brenden Jaimes,23,OL,JaimBr00
+3,Derwin James,26,S,JameDe00
+77,Zion Johnson,23,G,JohnZi00
+69,Sebastian Joseph-Day,27,DT,JoseSe00
+33,Deane Leonard,23,DB,LeonDe00
+63,Corey Linsley,31,C,LinsCo00
+52,Khalil Mack,31,OLB,MackKh00
+88,Tre' McKitty,23,TE,McKiTr00
+20,Sony Michel,27,RB,MichSo00
+11,Jason Moore,27,WR,MoorJa02
+9,Kenneth Murray,24,LB,MurrKe00
+31,Nick Niemann,25,LB,NiemNi00
+74,Storm Norton,28,T,NortSt00
+57,Amen Ogbongbemiga,24,LB,OgboAm00
+5,Josh Palmer,24,WR,PalmJo00
+79,Trey Pipkins,26,T,PipkTr00
+42,Troy Reeder,28,LB,ReedTr01
+82,Richard Rodgers,30,TE,RodgRi00
+34,Larry Rountree,23,RB,RounLa00
+94,Chris Rumph,24,OLB,RumpCh00
+68,Jamaree Salyer,22,G,SalyJa00
+26,Asante Samuel Jr.,23,CB,SamuAs00
+73,Foster Sarell,24,T,SareFo00
+16,JK Scott,27,P,ScotJK00
+48,Stone Smartt,24,TE,SmarSt00
+28,Isaiah Spiller,21,RB,SpilIs00
+2,Easton Stick,27,QB,SticEa00
+36,Ja'Sir Taylor,23,DB,TaylJa04
+49,Drue Tranquill,27,LB,TranDr00
+59,Derrek Tuszka,26,OLB,TuszDe00
+8,Kyle Van Noy,31,OLB,VanNKy00
+81,Mike Williams,28,WR,WillMi07
+22,JT Woods,22,S,WoodJT00
+12,Taylor Bertolet (IR),30,K,BertTa01
+97,Joey Bosa (IR),27,OLB,BosaJo00
+95,Christian Covington (IR),29,DL,CoviCh00
+15,Jalen Guyton (IR),25,WR,GuytJa01
+27,J.C. Jackson (IR),27,CB,JackJ.00
+98,Austin Johnson (IR),28,DT,JohnAu01
+25,Joshua Kelley (IR),25,RB,KellJo01
+53,Damon Lloyd (IR),24,LB,LloyDa02
+91,Forrest Merrill (IR),26,DT,MerrFo00
+93,Otito Ogbonnia (IR),21,DT,OgboOt00
+89,Donald Parham (IR),25,TE,ParhDo00
+70,Rashawn Slater (IR),23,T,SlatRa00
+62,Andrew Trainer (IR),25,T,TraiAn00
+60,Isaac Weaver (IR),24,C,WeavIs00

@@ -1,0 +1,65 @@
+63,Oday Aboushi,31,T,AbouOd00
+23,Cam Akers,23,RB,AkerCa00
+55,Brian Allen,27,OL,AlleBr02
+61,AJ Arcuri,25,T,ArcuAJ00
+15,Tutu Atwell,23,WR,AtweTu00
+95,Bobby Brown,22,DT,BrowBo04
+93,Marquise Copeland,25,DT,CopeMa01
+11,Riley Dixon,29,P,DixoRi00
+99,Aaron Donald,31,DT,DonaAa00
+14,Cobie Durant,24,DB,DuraDe01
+71,Bobby Evans,25,OL,EvanBo00
+54,Leonard Floyd,30,OLB,FloyLe00
+91,Greg Gaines,26,DT,GainGr00
+8,Matt Gay,28,K,GayxMa00
+39,Jake Gervase,27,LB,GervJa00
+87,Jacob Harris,25,WR,HarrJa03
+79,Rob Havenstein,30,OL,HaveRo00
+27,Darrell Henderson,25,RB,HendDa00
+89,Tyler Higbee,29,TE,HigbTy00
+2,Troy Hill,31,CB,HillTr01
+96,Michael Hoecht,25,DT,HoecMi00
+58,Justin Hollins,26,LB,HollJu00
+88,Brycen Hopkins,25,TE,HopkBr01
+32,Travin Howard,26,LB,HowaTr00
+12,Van Jefferson,26,WR,JeffVa00
+38,Shaun Jolly,24,CB,JollSh00
+50,Ernest Jones,23,LB,JoneEr01
+6,Derion Kendrick,22,CB,KendDe00
+60,Jeremiah Kolone,28,G,KoloJe00
+37,Quentin Lake,23,DB,LakeQu00
+52,Terrell Lewis,24,OLB,LewiTe00
+22,David Long,24,CB,LongDa02
+82,Lance McCutcheon,23,WR,McCuLa01
+68,Ty Nsekhe,37,T,NsekTy00
+42,Matthew Orzech,27,LS,OrzeMa00
+16,Bryce Perkins,26,QB,PerkBr02
+19,Brandon Powell,27,WR,PoweBr00
+5,Jalen Ramsey,28,DB,RamsJa00
+24,Taylor Rapp,25,DB,RappTa00
+94,A'Shawn Robinson,27,DT,RobiAS00
+1,Allen Robinson,29,WR,RobiAl02
+31,Robert Rochell,24,DB,RochRo00
+56,Christian Rozeboom,25,LB,RozeCh00
+33,Nick Scott,27,S,ScotNi01
+65,Coleman Shelton,27,OL,ShelCo00
+18,Ben Skowronek,25,WR,SkowBe00
+64,Matt Skura,29,C,SkurMa01
+9,Matthew Stafford,34,QB,StafMa00
+,Zachary Thomas,24,OL,ThomZa04
+45,Bobby Wagner,32,LB,WagnBo00
+92,Jonah Williams,27,DE,WillJo16
+23,Kyren Williams,22,RB,WillKy02
+13,John Wolford,27,QB,WolfJo00
+21,Russ Yeast,23,S,YeasRu00
+73,David Edwards (IRD),25,OL,EdwaDa01
+72,Tremayne Anchrum (IR),24,OL,AnchTr00
+67,Chandler Brewer (IR),25,T,BrewCh01
+60,Logan Bruss (IR),23,G,BrusLo00
+4,Jordan Fuller (IR),24,DB,FullJo01
+36,Grant Haley (IR),26,DB,HaleGr00
+44,Daniel Hardy (IR),24,OLB,HardDa01
+35,Jake Hummel (IR),23,LB,HummJa00
+68,Alaric Jackson (IR),24,OL,JackAl01
+10,Cooper Kupp (IR),29,WR,KuppCo00
+70,Joseph Noteboom (IR),27,OL,NoteJo00

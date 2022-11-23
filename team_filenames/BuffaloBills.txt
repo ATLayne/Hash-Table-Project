@@ -1,0 +1,59 @@
+17,Josh Allen,26,QB,AlleJo02
+55,Boogie Basham,25,DE,BashCa00
+2,Tyler Bass,25,K,BassTy00
+71,Ryan Bates,25,OL,BateRy02
+47,Christian Benford,22,CB,BenfCh00
+43,Terrel Bernard,23,LB,BernTe00
+79,Spencer Brown,24,T,BrowSp00
+28,James Cook,23,RB,CookJa01
+13,Gabriel Davis,23,WR,DaviGa01
+73,Dion Dawkins,28,T,DawkDi00
+14,Stefon Diggs,29,WR,DiggSt00
+53,Tyrel Dodson,24,LB,DodsTy01
+49,Tremaine Edmunds,24,LB,EdmuTr01
+24,Kaiir Elam,21,CB,ElamKa00
+57,A.J. Epenesa,24,DE,EpenAJ00
+69,Reid Ferguson,28,LS,FergRe00
+41,Reggie Gilliam,25,FB,GillRe00
+3,Damar Hamlin,24,S,HamlDa00
+68,Bobby Hart,28,T,HartBo00
+20,Nyheim Hines,26,RB,HineNy00
+30,Dane Jackson,26,CB,JackDa02
+4,Jaquan Johnson,27,S,JohnJa11
+24,Taron Johnson,26,CB,JohnTa01
+92,DaQuan Jones,31,DT,JoneDa04
+25,Taiwan Jones,34,RB,JoneTa00
+18,Case Keenum,34,QB,KeenCa00
+,A.J. Klein,31,LB,KleiAJ00
+88,Dawson Knox,26,TE,KnoxDa00
+90,Shaq Lawson,28,DE,LawsSh00
+39,Cameron Lewis,25,CB,LewiCa00
+31,Dean Marlowe,30,FS,MarlDe00
+6,Sam Martin,32,P,MartSa01
+44,Tyler Matakevich,30,LB,MataTy00
+6,Isaiah McKenzie,27,WR,McKeIs00
+58,Matt Milano,28,LB,MilaMa00
+40,Von Miller,33,LB,MillVo00
+85,Quintin Morris,23,TE,MorrQu00
+60,Mitch Morse,30,C,MorsMi00
+67,Justin Murray,29,T,MurrJu00
+33,Siran Neal,28,CB,NealSi00
+91,Ed Oliver,25,DT,OlivEd00
+97,Jordan Phillips,30,DT,PhilJo01
+21,Jordan Poyer,31,S,PoyeJo00
+77,David Quessenberry,32,OL,QuesDa00
+50,Gregory Rousseau,22,DE,RousGr00
+76,Rodger Saffold,34,G,SaffRo20
+99,Tim Settle,25,DT,SettTi00
+10,Khalil Shakir,22,WR,ShakKh00
+26,Devin Singletary,25,RB,SingDe00
+54,Baylon Spector,24,LB,SpecBa00
+89,Tommy Sweeney,27,TE,SweeTo00
+64,Greg Van Roten,32,G,VanRGr00
+27,Tre'Davious White,27,CB,WhitTr01
+65,Ike Boettger (PUP),28,G,BoetIk00
+5,Marquez Stevenson (IRD),24,WR,StevMa00
+80,Jamison Crowder (IR),29,WR,CrowJa00
+72,Tommy Doyle (IR),24,T,DoylTo00
+23,Micah Hyde (IR),32,S,HydeMi00
+15,Jake Kumerow (IR),30,WR,KumeJa00

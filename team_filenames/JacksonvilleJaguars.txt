@@ -1,0 +1,58 @@
+39,Jamal Agnew,27,WR,AgneJa00
+41,Josh Allen,25,OLB,AlleJo03
+85,Dan Arnold,27,TE,ArnoDa00
+3,C.J. Beathard,29,QB,BeatC.00
+30,Montaric Brown,23,CB,BrowMo00
+29,Tevaughn Campbell,29,CB,CampTe00
+32,Tyson Campbell,22,CB,CampTy01
+38,Andre Cisco,22,S,CiscAn00
+27,Chris Claybrooks,25,CB,ClayCh02
+24,Snoop Conner,22,RB,ConnSn00
+9,Logan Cooke,27,P,CookLo00
+47,De'Shaan Dixon,24,OLB,DixoDe01
+17,Evan Engram,28,TE,EngrEv00
+1,Travis Etienne,23,RB,EtieTr00
+89,Luke Farrell,25,TE,FarrLu00
+94,Folorunso Fatukasi,27,DL,FatuFo00
+79,Luke Fortner,24,OL,FortLu01
+27,Tyree Gillespie,24,S,GillTy00
+96,Adam Gotsis,30,DL,GotsAd00
+52,DaVon Hamilton,25,DT,HamiDa02
+73,Blake Hance,26,OL,HancBl00
+22,Jamycal Hasty,26,RB,HastJa02
+37,Tre Herndon,26,CB,HernTr00
+2,Rayshawn Jenkins,28,S,JenkRa00
+57,Caleb Johnson,24,LB,JohnCa04
+11,Marvin Jones,32,WR,JoneMa02
+15,Tim Jones,24,WR,JoneTi00
+7,Zay Jones,27,WR,JoneZa00
+49,Arden Key,26,OLB,KeyxAr00
+13,Christian Kirk,26,WR,KirkCh01
+16,Trevor Lawrence,23,QB,LawrTr00
+72,Walker Little,23,OL,LittWa00
+33,Devin Lloyd,24,LB,LloyDe00
+84,Chris Manhertz,30,TE,ManhCh00
+46,Ross Matiscik,26,LS,MatiRo00
+67,John Miller,29,OL,MillJo04
+48,Chad Muma,23,LB,MumaCh00
+23,Foyesade Oluokun,27,LB,OluoFo00
+10,Riley Patterson,23,K,PattRi01
+98,Corey Peters,34,DL,PeteCo00
+14,Kendric Pryor,24,WR,PryoKe00
+50,Shaquille Quarterman,25,LB,QuarSh00
+95,Roy Robertson-Harris,29,DL,RobeRo00
+74,Cam Robinson,27,OL,RobiCa00
+68,Brandon Scherff,31,OL,ScheBr00
+69,Tyler Shatley,31,OL,ShatTy00
+91,Dawuane Smoot,27,DL,SmooDa00
+75,Jawaan Taylor,25,OL,TaylJa02
+20,Daniel Thomas,24,S,ThomDa07
+70,Cole Van Lanen,24,OL,VanxCo00
+44,Travon Walker,22,OLB,WalkTr03
+21,Darious Williams,29,CB,WillDa09
+42,Andrew Wingard,26,S,WingAn01
+18,Calvin Ridley (SUS),28,WR,RidlCa00
+78,Ben Bartch (IR),24,OL,BartBe00
+45,K'Lavon Chaisson (IR),23,LB,ChaiKL00
+26,Shaquill Griffin (IR),27,CB,GrifSh00
+92,Jordan Smith (IR),24,DE,SmitJo03

@@ -1,0 +1,64 @@
+5,Bryan Anger,34,P,AngeBr00
+92,Dorance Armstrong Jr.,25,DE,ArmsDo00
+75,Josh Ball,24,T,BallJo00
+42,Anthony Barr,30,LB,BarrAn00
+93,Tarell Basham,28,DE,BashTa00
+41,Markquese Bell,23,S,BellMa01
+63,Tyler Biadasz,25,C,BiadTy00
+26,DaRon Bland,23,CB,BlanDa00
+98,Quinton Bohanna,23,DT,BohaQu00
+3,Anthony Brown,29,CB,BrowAn02
+85,Noah Brown,26,WR,BrowNo00
+33,Damone Clark,22,LB,ClarDa02
+14,Jabril Cox,24,LB,CoxxJa00
+34,Malik Davis,24,RB,DaviMa02
+7,Trevon Diggs,24,CB,DiggTr00
+21,Ezekiel Elliott,27,RB,ElliEz00
+48,Jake Ferguson,23,TE,FergJa00
+56,Dante Fowler,28,DE,FowlDa00
+96,Neville Gallimore,25,DT,GallNe00
+13,Michael Gallup,26,WR,GallMi00
+57,Luke Gifford,27,LB,GiffLu00
+59,Chauncey Golston,24,DE,GolsCh00
+29,C.J. Goodwin,32,CB,GoodC.00
+15,Will Grier,27,QB,GrieWi00
+95,Johnathan Hankins,30,DT,HankJo00
+49,Peyton Hendershot,23,TE,HendPe01
+28,Malik Hooker,26,S,HookMa00
+1,Kelvin Joseph,22,CB,JoseKe02
+27,Jayron Kearse,28,S,KearJa00
+88,CeeDee Lamb,23,WR,LambCe00
+90,DeMarcus Lawrence,30,DE,LawrDe00
+19,Brett Maher,33,K,MaheBr01
+70,Zack Martin,32,G,MartZa00
+66,Connor McGovern,25,G,McGoCo01
+84,Sean McKeon,25,TE,McKeSe01
+24,Israel Mukuamu,23,S,MukuIs00
+97,Osa Odighizuwa,24,DT,OdigOs00
+45,Matt Overton,37,LS,OverMa00
+11,Micah Parsons,23,LB,ParsMi00
+20,Tony Pollard,25,RB,PollTo00
+4,Dak Prescott,29,QB,PresDa01
+10,Cooper Rush,29,QB,RushCo00
+86,Dalton Schultz,26,TE,SchuDa00
+73,Tyler Smith,21,OL,SmitTy02
+78,Terence Steele,25,T,SteeTe01
+18,Jalen Tolbert,23,WR,TolbJa00
+2,KaVontae Turpin,26,WR,TurpKa00
+55,Leighton Vander Esch,26,LB,VandLe00
+91,Carlos Watkins,29,DT,WatkCa00
+54,Sam Williams,23,DE,WillSa00
+6,Donovan Wilson,27,S,WilsDo01
+25,Nahshon Wright,24,CB,WrigNa00
+51,Devante Bond (IR),29,LB,BondDe00
+89,Ian Bunting (IR),26,TE,BuntIa00
+23,Rico Dowdle (IR),24,RB,DowdRi01
+68,Matt Farniok (IR),25,G,FarnMa00
+81,Simi Fehoko (IR),25,WR,FehoSi00
+50,Devin Harper (IR),24,LB,HarpDe00
+2,Jourdan Lewis (IR),27,CB,LewiJo01
+65,Alec Lindstrom (IR),24,C,LindAl00
+44,Jake McQuaide (IR),35,LS,McQuJa00
+77,Tyron Smith (IR),32,T,SmitTy00
+71,Matt Waletzko (IR),23,T,WaleMa00
+83,James Washington (IR),26,WR,WashJa00

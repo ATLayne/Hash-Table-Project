@@ -7,6 +7,7 @@
 #include <chrono>
 #include "PlayerList.h"
 #include "stack.cpp"
+#include "hashtable.h"
 //#include "main.cpp"         //comment out for windows.
 //#include "mainmenu.cpp"     //comment out for windows.
 using namespace std;
@@ -17,10 +18,17 @@ PlayerList* addToList(PlayerList* list, string teamName);
 PlayerList* deleteFromList(PlayerList* list, string teamName);
 void selectedRosterMenu(PlayerList* list, string teamName);
 void searchList(PlayerList* list);
+void searchHash();
 
-Stack teamStack;    //Declaring a global stack to be used throughout the program.
-ofstream stackContents;     //Declared global ofstream object. Used to write
-                            //the contents of the stack to a file. Line 134.
+//Declaring a global stack to be used throughout the program.
+Stack teamStack;    
+
+//Declared global ofstream object. Used to write
+//the contents of the stack to a file. Line 134.
+ofstream stackContents;     
+
+//Declared global hash table for use by all functions.
+HashTable testTable(10); 
 
 void listTest() {
     system("cls");
@@ -35,7 +43,7 @@ void listTest() {
     human readable format.
     The second loop reads from a file that contains the 
     filenames of the rosters for each team.*/
-    ifstream teamNames("teamNames.txt");
+    ifstream teamNames("text_files/teamNames.txt");
     int i = 0;
     while (getline(teamNames, nameLine)) {
         teamNameArr[i] = nameLine;
@@ -43,7 +51,7 @@ void listTest() {
     }
     teamNames.close();
 
-    ifstream teamFilenames("teamFilenames.txt");
+    ifstream teamFilenames("text_files/teamFilenames.txt");
     int j = 0;
     while (getline(teamFilenames, filenameLine)) {
         teamFilenameArr[j] = filenameLine;
@@ -67,7 +75,7 @@ void listTest() {
     if (teamSelect > 0 or teamSelect < 33) {
         teamSelect--;
 
-        selectedTeamFilename = teamFilenameArr[teamSelect];
+        selectedTeamFilename = "team_filenames/" + teamFilenameArr[teamSelect];
         teamStack.push(teamNameArr[teamSelect]);
     }
     else {
@@ -91,6 +99,7 @@ void selectedRosterMenu(PlayerList* list, string teamName){
     cout << "5.) Select Another Team" << endl;
     cout << "6.) Return to Main Menu" << endl;
     cout << "7.) View Recently viewed teams" << endl;
+    cout << "8.) Display hash table contents" << endl;
     cin >> menuSelect;
     cin.ignore();
 
@@ -113,6 +122,7 @@ void selectedRosterMenu(PlayerList* list, string teamName){
 
         case 4:
             searchList(list);
+            searchHash();
             selectedRosterMenu(list, teamName);
             break;
 
@@ -138,6 +148,15 @@ void selectedRosterMenu(PlayerList* list, string teamName){
                 stackContents << teamOutput << endl;
             }
             system("pause");
+            selectedRosterMenu(list, teamName);
+            break;
+
+        case 8:
+            testTable.displayHash();
+            break;
+
+        default:
+            cout << "Invalid Choice\n Please select again." << endl;
             selectedRosterMenu(list, teamName);
             break;
 
@@ -184,6 +203,7 @@ PlayerList* createList(PlayerList* list, string teamName) {
         }
 
         list->insertNode(number, playerName, age, playerPOS);
+        testTable.insertItem(number, playerName, age, playerPOS);
     }
 
     return list;
@@ -245,6 +265,7 @@ PlayerList* deleteFromList(PlayerList* list, string teamName) {
 }
 
 void searchList(PlayerList* list){
+    cout << "In searchList()" << endl;
     int numToSearch;
     cout << "What player number would you like to search for?" << endl;
     cin >> numToSearch;
@@ -256,5 +277,17 @@ void searchList(PlayerList* list){
         (end - start).count());
     cout << "Elapsed Time: " << elapsedTime << " microseconds." << endl;
 }
+
+void searchHash(){
+    cout << "In searchHash()" << endl;
+    int numToSearch;
+    cout << "Enter a number to search for." << endl;
+    cin >> numToSearch;
+    auto start = chrono::steady_clock::now();
+    testTable.searchForItem(numToSearch);
+    auto end = chrono::steady_clock::now();
+    double elapsedTime = double(::chrono::duration_cast < ::chrono::microseconds> 
+        (end - start).count());
+    cout << "Elapsed Time: " << elapsedTime << " microseconds." << endl;}
 
 #endif

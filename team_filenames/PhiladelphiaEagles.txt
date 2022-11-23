@@ -1,0 +1,61 @@
+32,Reed Blankenship,23,S,BlanRe00
+19,Ian Book,24,QB,BookIa00
+24,James Bradberry,29,CB,BradJa00
+54,Shaun Bradley,25,LB,BradSh00
+11,A.J. Brown,25,WR,BrowAJ00
+47,Grant Calcaterra,24,TE,CalcGr00
+21,Andre Chachere,26,S,ChacAn00
+18,Britain Covey,25,WR,CoveBr00
+91,Fletcher Cox,32,DT,CoxxFl00
+17,Nakobe Dean,22,LB,DeanNa00
+69,Landon Dickerson,24,G,DickLa00
+77,Andre Dillard,27,T,DillAn00
+63,Jack Driscoll,25,OL,DrisJa00
+57,T.J. Edwards,26,LB,EdwaTJ02
+4,Jake Elliott,27,K,ElliJa03
+22,Marcus Epps,26,S,EppsMa00
+14,Kenneth Gainwell,23,RB,GainKe00
+23,C.J. Gardner-Johnson,25,S,GardCh00
+55,Brandon Graham,34,DE,GrahBr99
+97,Javon Hargrave,29,DT,HargJa00
+1,Jalen Hurts,24,QB,HurtJa00
+80,Tyree Jackson,25,TE,JackTy01
+28,Josh Jobe,24,CB,JobeJo00
+58,Kyron Johnson,24,LB,JohnKy02
+65,Lane Johnson,32,T,JohnLa01
+48,Patrick Johnson,24,LB,JohnPa02
+,Linval Joseph,34,DT,JoseLi99
+51,Cam Jurgens,23,OL,JurgCa01
+62,Jason Kelce,35,C,KelcJa00
+45,Rick Lovato,30,LS,LovaRi00
+68,Jordan Mailata,25,T,MailJo00
+27,Zech McPhearson,24,CB,McPhZe00
+10,Gardner Minshew II,26,QB,MinsGa00
+78,Sua Opeta,26,G,OpetIo00
+3,Zach Pascal,28,WR,PascZa00
+98,Robert Quinn,32,DE,QuinRo00
+7,Haason Reddick,28,LB,ReddHa00
+26,Miles Sanders,25,RB,SandMi01
+35,Boston Scott,27,RB,ScotBo02
+33,Josiah Scott,23,CB,ScotJo00
+34,Trey Sermon,23,RB,SermTr00
+56,Isaac Seumalo,29,G,SeumIs00
+61,Josh Sills,24,G,SillJo00
+8,Arryn Siposs,30,P,SipoAr01
+2,Darius Slay,31,CB,SlayDa00
+6,DeVonta Smith,24,WR,SmitDe07
+89,Jack Stoll,24,TE,StolJa00
+,Ndamukong Suh,35,DT,SuhxNd99
+94,Josh Sweat,25,DE,SweaJo00
+42,K'Von Wallace,25,S,WallKV00
+16,Quez Watkins,24,WR,WatkQu00
+43,Kyzir White,26,LB,WhitKy00
+93,Milton Williams,23,DT,WillMi08
+64,Brett Toth (PUP),26,OL,TothBr00
+59,Janarius Robinson (IRD),23,DE,RobiJa04
+96,Derek Barnett (IR),26,DE,BarnDe01
+90,Jordan Davis (IR),22,DT,DaviJo03
+88,Dallas Goedert (IR),27,TE,GoedDa00
+29,Avonte Maddox (IR),26,CB,MaddAv00
+95,Marlon Tuipulotu (IR),23,DT,TuipMa00
+67,Jarrid Williams (IR),25,T,WillJa13

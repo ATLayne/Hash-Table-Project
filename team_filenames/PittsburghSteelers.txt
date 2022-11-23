@@ -1,0 +1,61 @@
+57,Montravius Adams,27,DT,AdamMo00
+27,Marcus Allen,26,LB,AlleMa03
+94,Tyson Alualu,35,DE,AluaTy99
+13,Miles Boykin,26,WR,BoykMi00
+55,Devin Bush Jr.,24,LB,BushDe01
+61,Mason Cole,26,OL,ColeMa02
+78,James Daniels,25,OL,DaniJa01
+73,Jesse Davis,31,T,DaviJe00
+69,Kevin Dotson,26,OL,DotsKe00
+34,Terrell Edmunds,25,S,EdmuTe00
+39,Minkah Fitzpatrick,26,S,FitzMi00
+88,Pat Freiermuth,24,TE,FreiPa00
+81,Zach Gentry,26,TE,GentZa00
+53,Kendrick Green,24,C,GreeKe02
+22,Najee Harris,24,RB,HarrNa00
+6,Pressley Harvin III,24,P,HarvPr00
+60,J.C. Hassenauer,27,C,HassJ.00
+97,Cameron Heyward,33,DT,HeywCa01
+83,Connor Heyward,23,TE,HeywCo00
+56,Alex Highsmith,25,LB,HighAl02
+51,Myles Jack,27,LB,JackMy00
+16,Josh Jackson,26,CB,JackJo01
+18,Diontae Johnson,26,WR,JohnDi01
+40,Jamir Jones,24,LB,JoneJa11
+23,Damontae Kazee,29,S,KazeDa00
+28,Miles Killebrew,29,S,KillMi00
+46,Christian Kuntz,28,LS,KuntCh02
+92,Isaiahh Loudermilk,25,DE,LoudIs00
+35,Arthur Maulet,29,CB,MaulAr00
+65,Dan Moore,24,T,MoorDa05
+21,Tre Norwood,23,DB,NorwTr00
+65,Larry Ogunjobi,28,DT,OgunLa00
+76,Chukwuma Okorafor,25,OL,OkorCh00
+89,Gunner Olszewski,26,WR,OlszGu00
+14,George Pickens,21,WR,PickGe00
+8,Kenny Pickett,24,QB,PickKe00
+42,James Pierre,26,CB,PierJa01
+50,Malik Reed,26,LB,ReedMa01
+93,Mark Robinson,23,LB,RobiMa03
+2,Mason Rudolph,27,QB,RudoMa00
+64,Trenton Scott,28,OL,ScotTr01
+82,Steven Sims,25,WR,SimsSt00
+24,Benny Snell Jr.,24,RB,SnelBe00
+41,Robert Spillane,27,LB,SpilRo00
+20,Cameron Sutton,27,CB,SuttCa00
+10,Mitchell Trubisky,28,QB,TrubMi00
+29,Levi Wallace,27,CB,WallLe00
+30,Jaylen Warren,24,RB,WarrJa01
+44,Derek Watt,30,FB,WattDe00
+90,T.J. Watt,28,LB,WattT.00
+25,Ahkello Witherspoon,27,CB,WithAh00
+95,Chris Wormley,29,DT,WormCh00
+4,Matthew Wright,26,K,WrigMa00
+19,Calvin Austin (IRD),23,WR,AustCa00
+98,DeMarvin Leal (IRD),22,DE,LealDe00
+9,Chris Boswell (IR),31,K,BoswCh00
+17,William Jackson III (IR),30,CB,JackWi02
+38,Karl Joseph (IR),29,S,JoseKa00
+33,Jeremy McNichols (IR),27,RB,McNiJe00
+17,Anthony Miller (IR),28,WR,MillAn02
+30,Carlins Platel (IR),23,DB,PlatCa00
