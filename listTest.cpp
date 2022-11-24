@@ -8,17 +8,19 @@
 #include "PlayerList.h"
 #include "stack.cpp"
 #include "hashtable.h"
-//#include "main.cpp"         //comment out for windows.
-//#include "mainmenu.cpp"     //comment out for windows.
 using namespace std;
 
 void mainMenu();
-PlayerList* createList(PlayerList* list, string teamName);
-PlayerList* addToList(PlayerList* list, string teamName);
-PlayerList* deleteFromList(PlayerList* list, string teamName);
-void selectedRosterMenu(PlayerList* list, string teamName);
-void searchList(PlayerList* list);
+void addToList();
+void deleteFromList();
+void createList();
+void selectedRosterMenu();
+void searchList();
 void searchHash();
+
+//Declaring global PlayerList instead of needing to pass one
+//back and forth between functions.
+PlayerList* list2 = new PlayerList;
 
 //Declaring a global stack to be used throughout the program.
 Stack teamStack;    
@@ -30,10 +32,13 @@ ofstream stackContents;
 //Declared global hash table for use by all functions.
 HashTable testTable(10); 
 
+//Other global variables used in multiple funcitons.
+string selectedTeamFilename;
+
+
 void listTest() {
     system("cls");
     int teamSelect;
-    string selectedTeamFilename;
     string nameLine, filenameLine;
     string teamNameArr[32];         //Array of team names in a human readable format
     string teamFilenameArr[32];     //Array of teamnames in teamname.txt format
@@ -83,13 +88,15 @@ void listTest() {
         listTest();
     }
 
-
-    PlayerList* list1 = new PlayerList;
-    list1 = createList(list1, selectedTeamFilename);
-    selectedRosterMenu(list1, selectedTeamFilename);
+    createList();
+    testTable.displayHash();
+    selectedRosterMenu();
+    // PlayerList* list1 = new PlayerList;
+    // list1 = createList(list1, selectedTeamFilename);
+    // selectedRosterMenu(list1, selectedTeamFilename);
 }
 
-void selectedRosterMenu(PlayerList* list, string teamName){
+void selectedRosterMenu(){
     int menuSelect;
     cout << "What do you want to do?" << endl;
     cout << "1.) Print Roster" << endl;
@@ -106,24 +113,24 @@ void selectedRosterMenu(PlayerList* list, string teamName){
     switch(menuSelect){
         case 1:
             system("cls");
-            list->displayList();
-            selectedRosterMenu(list, teamName);
+            list2->displayList();
+            selectedRosterMenu();
             break;
 
         case 2:
-            list = addToList(list, teamName);
-            selectedRosterMenu(list, teamName);
+            addToList();
+            selectedRosterMenu();
             break;
         
         case 3:
-            list = deleteFromList(list, teamName);
-            selectedRosterMenu(list, teamName);
+            deleteFromList();
+            selectedRosterMenu();
             break;
 
         case 4:
-            searchList(list);
+            searchList();
             searchHash();
-            selectedRosterMenu(list, teamName);
+            selectedRosterMenu();
             break;
 
         case 5:
@@ -148,7 +155,7 @@ void selectedRosterMenu(PlayerList* list, string teamName){
                 stackContents << teamOutput << endl;
             }
             system("pause");
-            selectedRosterMenu(list, teamName);
+            selectedRosterMenu();
             break;
 
         case 8:
@@ -157,26 +164,21 @@ void selectedRosterMenu(PlayerList* list, string teamName){
 
         default:
             cout << "Invalid Choice\n Please select again." << endl;
-            selectedRosterMenu(list, teamName);
+            selectedRosterMenu();
             break;
 
     }
 }
 
-
-
 /*****************************************************************************/
 /*****************************************************************************/
-PlayerList* createList(PlayerList* list, string teamName) {
-    //declaring integer counter for number of lines in input file
-    int size = 0;
-
-    fstream file(teamName);
+void createList(){
+    fstream file(selectedTeamFilename);
     string playerNumber, playerName, playerAge, playerPOS, tempData;
     string line;
 
     file.close();
-    file.open(teamName);
+    file.open(selectedTeamFilename);
 
     int number, age;
     while (getline(file, line)) {
@@ -202,14 +204,14 @@ PlayerList* createList(PlayerList* list, string teamName) {
             age = stoi(playerAge);
         }
 
-        list->insertNode(number, playerName, age, playerPOS);
+        list2->insertNode(number, playerName, age, playerPOS);
         testTable.insertItem(number, playerName, age, playerPOS);
-    }
+    }  
 
-    return list;
+    list2->displayList();
 }
 
-PlayerList* addToList(PlayerList* list, string teamName) {
+void addToList() {
     bool validInput = true;
     string playerName, playerPOS;
     int playerNum, playerAge;
@@ -241,37 +243,33 @@ PlayerList* addToList(PlayerList* list, string teamName) {
     cout << "What is the player's position?" << endl;
     cin >> playerPOS;
 
-    list->insertNode(playerNum, playerName, playerAge, playerPOS);
-    list->displayList();
-    list->writeListToFile(teamName);
-
-    return list;
+    list2->insertNode(playerNum, playerName, playerAge, playerPOS);
+    list2->displayList();
+    list2->writeListToFile(selectedTeamFilename);
 }
 
-PlayerList* deleteFromList(PlayerList* list, string teamName) {
+void deleteFromList() {
     int numToDelete;
 
     cout << "Typer the number of the player to delete." << endl;
     cin >> numToDelete;
 
-    list->deleteNode(numToDelete);
+    list2->deleteNode(numToDelete);
 
     cout << "New list will now be displayed." << endl;
     system("pause");
-    list->displayList();
-    list->writeListToFile(teamName);
-
-    return list;
+    list2->displayList();
+    list2->writeListToFile(selectedTeamFilename);
 }
 
-void searchList(PlayerList* list){
+void searchList(){
     cout << "In searchList()" << endl;
     int numToSearch;
     cout << "What player number would you like to search for?" << endl;
     cin >> numToSearch;
 
     auto start = chrono::steady_clock::now();
-    list->searchList(numToSearch);
+    list2->searchList(numToSearch);
     auto end = chrono::steady_clock::now();
     double elapsedTime = double(::chrono::duration_cast < ::chrono::microseconds> 
         (end - start).count());
